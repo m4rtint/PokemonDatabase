@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<TID>Rival_1</TID>
+		<Party>13,10</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Rick</TID>
+		<Party>13,14,13</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Doug</TID>
+		<Party>10</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Anthony</TID>
+		<Party>50,27</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Charlie</TID>
+		<Party>74,95</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Sammy</TID>
+		<Party>13,11</Party>
+	</row>
+	<row>
+		<TID>Camper Liam</TID>
+		<Party>13,14,14</Party>
+	</row>
+	<row>
+		<TID>Leader Brock</TID>
+		<Party>11</Party>
+	</row>
+	<row>
+		<TID>Lass Janice</TID>
+		<Party>50,28</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Colton</TID>
+		<Party>74,96</Party>
+	</row>
+	<row>
+		<TID>Youngster Ben</TID>
+		<Party>13,12</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Greg</TID>
+		<Party>13,14,15</Party>
+	</row>
+	<row>
+		<TID>Lass Sally</TID>
+		<Party>13,11</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher James</TID>
+		<Party>13,14,14</Party>
+	</row>
+	<row>
+		<TID>Youngster Calvin</TID>
+		<Party>11</Party>
+	</row>
+	<row>
+		<TID>Lass Robin</TID>
+		<Party>50,28</Party>
+	</row>
+	<row>
+		<TID>Lass Iris</TID>
+		<Party>74,96</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Kent</TID>
+		<Party>13,12</Party>
+	</row>
+	<row>
+		<TID>Super Nerd Jovan</TID>
+		<Party>13,14,15</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Robby</TID>
+		<Party>12</Party>
+	</row>
+	<row>
+		<TID>Lass Miriam</TID>
+		<Party>50,29</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_1</TID>
+		<Party>74,97</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_2</TID>
+		<Party>13,13</Party>
+	</row>
+	<row>
+		<TID>Youngster Josh</TID>
+		<Party>13,14,16</Party>
+	</row>
+	<row>
+		<TID>Hiker Marcos</TID>
+		<Party>13,12</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_3</TID>
+		<Party>13,14,15</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_4</TID>
+		<Party>12</Party>
+	</row>
+	<row>
+		<TID>Super Nerd Miguel</TID>
+		<Party>50,29</Party>
+	</row>
+	<row>
+		<TID>Lass Crissy</TID>
+		<Party>74,97</Party>
+	</row>
+	<row>
+		<TID>Rival_2</TID>
+		<Party>13,13</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Cale</TID>
+		<Party>13,14,16</Party>
+	</row>
+	<row>
+		<TID>Lass Ali</TID>
+		<Party>13</Party>
+	</row>
+	<row>
+		<TID>Youngster Timmy</TID>
+		<Party>50,30</Party>
+	</row>
+	<row>
+		<TID>Lass Reli</TID>
+		<Party>74,98</Party>
+	</row>
+	<row>
+		<TID>Camper Ethan</TID>
+		<Party>13,14</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_5</TID>
+		<Party>13,14,17</Party>
+	</row>
+	<row>
+		<TID>Camper Shane</TID>
+		<Party>13,13</Party>
+	</row>
+	<row>
+		<TID>Hiker Franklin</TID>
+		<Party>13,14,16</Party>
+	</row>
+	<row>
+		<TID>Hiker Wayne</TID>
+		<Party>13</Party>
+	</row>
+	<row>
+		<TID>Youngster Joey</TID>
+		<Party>50,30</Party>
+	</row>
+	<row>
+		<TID>Youngester Dan</TID>
+		<Party>74,98</Party>
+	</row>
+	<row>
+		<TID>Picnicker Kelsey</TID>
+		<Party>13,14</Party>
+	</row>
+	<row>
+		<TID>Hiker Nob</TID>
+		<Party>13,14,17</Party>
+	</row>
+	<row>
+		<TID>Camper Flint</TID>
+		<Party>14</Party>
+	</row>
+	<row>
+		<TID>Youngster Chad</TID>
+		<Party>50,31</Party>
+	</row>
+	<row>
+		<TID>Lass Haley</TID>
+		<Party>74,99</Party>
+	</row>
+	<row>
+		<TID>Swimmer Luis</TID>
+		<Party>13,15</Party>
+	</row>
+	<row>
+		<TID>Picnicker Diana</TID>
+		<Party>13,14,18</Party>
+	</row>
+	<row>
+		<TID>Leader Misty</TID>
+		<Party>13,14</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_6</TID>
+		<Party>13,14,17</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Keigo</TID>
+		<Party>14</Party>
+	</row>
+	<row>
+		<TID>Camper Ricky</TID>
+		<Party>50,31</Party>
+	</row>
+	<row>
+		<TID>Picnicker Nancy</TID>
+		<Party>74,99</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Elijah</TID>
+		<Party>13,15</Party>
+	</row>
+	<row>
+		<TID>Picnicker Isabelle</TID>
+		<Party>13,14,18</Party>
+	</row>
+	<row>
+		<TID>Camper Jeff</TID>
+		<Party>15</Party>
+	</row>
+	<row>
+		<TID>Youngster Eddie</TID>
+		<Party>50,32</Party>
+	</row>
+	<row>
+		<TID>Gamer Hugo</TID>
+		<Party>74,100</Party>
+	</row>
+	<row>
+		<TID>Engineer Bernie</TID>
+		<Party>13,16</Party>
+	</row>
+	<row>
+		<TID>Gamer Jasper</TID>
+		<Party>13,14,19</Party>
+	</row>
+	<row>
+		<TID>Youngster Dave</TID>
+		<Party>13,15</Party>
+	</row>
+	<row>
+		<TID>Youngster Dillon</TID>
+		<Party>13,14,18</Party>
+	</row>
+	<row>
+		<TID>Engineer Braxton</TID>
+		<Party>15</Party>
+	</row>
+	<row>
+		<TID>Youngster Yasu</TID>
+		<Party>50,32</Party>
+	</row>
+	<row>
+		<TID>Gamer Darian</TID>
+		<Party>74,100</Party>
+	</row>
+	<row>
+		<TID>Gamer Dirk</TID>
+		<Party>13,16</Party>
+	</row>
+	<row>
+		<TID>Fisherman Barny</TID>
+		<Party>13,14,19</Party>
+	</row>
+	<row>
+		<TID>Sailer Phillip</TID>
+		<Party>16</Party>
+	</row>
+	<row>
+		<TID>Sailer Huey</TID>
+		<Party>50,33</Party>
+	</row>
+	<row>
+		<TID>Sailor Dylan</TID>
+		<Party>74,101</Party>
+	</row>
+	<row>
+		<TID>Sailor Duncan</TID>
+		<Party>13,17</Party>
+	</row>
+	<row>
+		<TID>Sailor leonard</TID>
+		<Party>13,14,20</Party>
+	</row>
+	<row>
+		<TID>Gentleman Thomas</TID>
+		<Party>13,16</Party>
+	</row>
+	<row>
+		<TID>Gentleman Arthur</TID>
+		<Party>13,14,19</Party>
+	</row>
+	<row>
+		<TID>Lass Ann</TID>
+		<Party>16</Party>
+	</row>
+	<row>
+		<TID>Youngster Tyler</TID>
+		<Party>50,33</Party>
+	</row>
+	<row>
+		<TID>Sailor Trevor</TID>
+		<Party>74,101</Party>
+	</row>
+	<row>
+		<TID>Sailor Edmond</TID>
+		<Party>13,17</Party>
+	</row>
+	<row>
+		<TID>Fisherman Dale</TID>
+		<Party>13,14,20</Party>
+	</row>
+	<row>
+		<TID>Gentleman Brooks</TID>
+		<Party>17</Party>
+	</row>
+	<row>
+		<TID>Lass Dawn</TID>
+		<Party>50,34</Party>
+	</row>
+	<row>
+		<TID>Gentleman Lamar</TID>
+		<Party>74,102</Party>
+	</row>
+	<row>
+		<TID>Rival_3</TID>
+		<Party>13,18</Party>
+	</row>
+	<row>
+		<TID>Sailor Dwayne</TID>
+		<Party>13,14,21</Party>
+	</row>
+	<row>
+		<TID>Engineer Baily</TID>
+		<Party>13,17</Party>
+	</row>
+	<row>
+		<TID>Gentleman Tucker</TID>
+		<Party>13,14,20</Party>
+	</row>
+	<row>
+		<TID>Leader Lt. Surge</TID>
+		<Party>17</Party>
+	</row>
+	<row>
+		<TID>Picnicker Alicia</TID>
+		<Party>50,34</Party>
+	</row>
+	<row>
+		<TID>Hiker Jeremy</TID>
+		<Party>74,102</Party>
+	</row>
+	<row>
+		<TID>Camper Chris</TID>
+		<Party>13,18</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Brent</TID>
+		<Party>13,14,21</Party>
+	</row>
+	<row>
+		<TID>Bug Catcher Conner</TID>
+		<Party>18</Party>
+	</row>
+	<row>
+		<TID>Bug Camper Drew</TID>
+		<Party>50,35</Party>
+	</row>
+	<row>
+		<TID>Hiker Alan</TID>
+		<Party>74,103</Party>
+	</row>
+	<row>
+		<TID>Hiker Brice</TID>
+		<Party>13,19</Party>
+	</row>
+	<row>
+		<TID>Picnicker Caitlin</TID>
+		<Party>13,14,22</Party>
+	</row>
+	<row>
+		<TID>Picnicker Heidi</TID>
+		<Party>13,18</Party>
+	</row>
+	<row>
+		<TID>Picnicker Carol</TID>
+		<Party>13,14,21</Party>
+	</row>
+	<row>
+		<TID>Hiker Clark</TID>
+		<Party>18</Party>
+	</row>
+	<row>
+		<TID>Hiker Trent</TID>
+		<Party>50,35</Party>
+	</row>
+	<row>
+		<TID>Pokemaniac Herman</TID>
+		<Party>74,103</Party>
+	</row>
+	<row>
+		<TID>Pokemaniac Mark</TID>
+		<Party>13,19</Party>
+	</row>
+	<row>
+		<TID>Pokemaniac Ashton</TID>
+		<Party>13,14,22</Party>
+	</row>
+	<row>
+		<TID>Pokemaniac Winston</TID>
+		<Party>19</Party>
+	</row>
+	<row>
+		<TID>Picnicker Martha</TID>
+		<Party>50,36</Party>
+	</row>
+	<row>
+		<TID>Pokemaniac Steve</TID>
+		<Party>74,104</Party>
+	</row>
+	<row>
+		<TID>Hiker Allen</TID>
+		<Party>13,20</Party>
+	</row>
+	<row>
+		<TID>Hiker Eric</TID>
+		<Party>13,14,23</Party>
+	</row>
+	<row>
+		<TID>Hiker Lenny</TID>
+		<Party>13,19</Party>
+	</row>
+	<row>
+		<TID>Hiker Oliver</TID>
+		<Party>13,14,22</Party>
+	</row>
+	<row>
+		<TID>Hiker Lucas</TID>
+		<Party>19</Party>
+	</row>
+	<row>
+		<TID>Picnicker Sofia</TID>
+		<Party>50,36</Party>
+	</row>
+	<row>
+		<TID>Hiker Dudley</TID>
+		<Party>74,104</Party>
+	</row>
+	<row>
+		<TID>Pokemaniac Cooper</TID>
+		<Party>13,20</Party>
+	</row>
+	<row>
+		<TID>Picnicker Leah</TID>
+		<Party>13,14,23</Party>
+	</row>
+	<row>
+		<TID>Picnicker Arianna</TID>
+		<Party>20</Party>
+	</row>
+	<row>
+		<TID>Picnicker Dana</TID>
+		<Party>50,37</Party>
+	</row>
+	<row>
+		<TID>Lass Julia</TID>
+		<Party>74,105</Party>
+	</row>
+	<row>
+		<TID>Gamer Rich</TID>
+		<Party>13,21</Party>
+	</row>
+	<row>
+		<TID>Super Nerd Glenn</TID>
+		<Party>13,14,24</Party>
+	</row>
+	<row>
+		<TID>Lass Megan</TID>
+		<Party>13,20</Party>
+	</row>
+	<row>
+		<TID>Lass Andrea</TID>
+		<Party>13,14,23</Party>
+	</row>
+	<row>
+		<TID>Super Nerd Leslie</TID>
+		<Party>20</Party>
+	</row>
+	<row>
+		<TID>Lass Paige</TID>
+		<Party>50,37</Party>
+	</row>
+	<row>
+		<TID>Biker Jaren</TID>
+		<Party>74,105</Party>
+	</row>
+	<row>
+		<TID>Biker Ricardo</TID>
+		<Party>13,21</Party>
+	</row>
+	<row>
+		<TID>Super Nerd Aiden</TID>
+		<Party>13,14,24</Party>
+	</row>
+	<row>
+		<TID>Gamer Stan</TID>
+		<Party>21</Party>
+	</row>
+	<row>
+		<TID>Lass Kay</TID>
+		<Party>50,38</Party>
+	</row>
+	<row>
+		<TID>Beauty Bridget</TID>
+		<Party>74,106</Party>
+	</row>
+	<row>
+		<TID>Picnicker Tina</TID>
+		<Party>13,22</Party>
+	</row>
+	<row>
+		<TID>Beauty Tamia</TID>
+		<Party>13,14,25</Party>
+	</row>
+	<row>
+		<TID>Beauty Lori</TID>
+		<Party>13,21</Party>
+	</row>
+	<row>
+		<TID>Lass Lisa</TID>
+		<Party>13,14,24</Party>
+	</row>
+	<row>
+		<TID>Cooltrainer Mary</TID>
+		<Party>21</Party>
+	</row>
+	<row>
+		<TID>Leader Erika</TID>
+		<Party>50,38</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_7</TID>
+		<Party>74,106</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_8</TID>
+		<Party>13,22</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_9</TID>
+		<Party>13,14,25</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_10</TID>
+		<Party>22</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_11</TID>
+		<Party>50,39</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_12</TID>
+		<Party>74,107</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_13</TID>
+		<Party>13,23</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_14</TID>
+		<Party>13,14,26</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_15</TID>
+		<Party>13,22</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_16</TID>
+		<Party>13,14,25</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_17</TID>
+		<Party>22</Party>
+	</row>
+	<row>
+		<TID>Boss Giovanni_1</TID>
+		<Party>50,39</Party>
+	</row>
+	<row>
+		<TID>Rival_7</TID>
+		<Party>74,107</Party>
+	</row>
+	<row>
+		<TID>Channeler Hope</TID>
+		<Party>13,23</Party>
+	</row>
+	<row>
+		<TID>Channeler Patricia</TID>
+		<Party>13,14,26</Party>
+	</row>
+	<row>
+		<TID>Channeler Carly</TID>
+		<Party>23</Party>
+	</row>
+	<row>
+		<TID>Channeler Laurel</TID>
+		<Party>50,40</Party>
+	</row>
+	<row>
+		<TID>Channeler Jody</TID>
+		<Party>74,108</Party>
+	</row>
+	<row>
+		<TID>Channeler Paula</TID>
+		<Party>13,24</Party>
+	</row>
+	<row>
+		<TID>Channeler Ruth</TID>
+		<Party>13,14,27</Party>
+	</row>
+	<row>
+		<TID>Channeler Tammy</TID>
+		<Party>13,23</Party>
+	</row>
+	<row>
+		<TID>Channeler Karina</TID>
+		<Party>13,14,26</Party>
+	</row>
+	<row>
+		<TID>Channeler janae</TID>
+		<Party>23</Party>
+	</row>
+	<row>
+		<TID>Channeler Angelica</TID>
+		<Party>50,40</Party>
+	</row>
+	<row>
+		<TID>Channeler Jennifer</TID>
+		<Party>74,108</Party>
+	</row>
+	<row>
+		<TID>Channeler Emilia</TID>
+		<Party>13,24</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_18</TID>
+		<Party>13,14,27</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_19</TID>
+		<Party>24</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_20</TID>
+		<Party>50,41</Party>
+	</row>
+	<row>
+		<TID>Biker Lao</TID>
+		<Party>74,109</Party>
+	</row>
+	<row>
+		<TID>Cue Ball Luke</TID>
+		<Party>13,25</Party>
+	</row>
+	<row>
+		<TID>Cue Ball Koji</TID>
+		<Party>13,14,28</Party>
+	</row>
+	<row>
+		<TID>Biker Hideo</TID>
+		<Party>13,24</Party>
+	</row>
+	<row>
+		<TID>Biker Ruben</TID>
+		<Party>13,14,27</Party>
+	</row>
+	<row>
+		<TID>Cue Ball Camron</TID>
+		<Party>24</Party>
+	</row>
+	<row>
+		<TID>Cue Ball Isaiah</TID>
+		<Party>50,41</Party>
+	</row>
+	<row>
+		<TID>Biker Virgil</TID>
+		<Party>74,109</Party>
+	</row>
+	<row>
+		<TID>Cue Ball Raul</TID>
+		<Party>13,25</Party>
+	</row>
+	<row>
+		<TID>Biker Billy</TID>
+		<Party>13,14,28</Party>
+	</row>
+	<row>
+		<TID>Biker Nikolas</TID>
+		<Party>25</Party>
+	</row>
+	<row>
+		<TID>Cue Ball Zeek</TID>
+		<Party>50,42</Party>
+	</row>
+	<row>
+		<TID>Cue Ball Corey</TID>
+		<Party>74,110</Party>
+	</row>
+	<row>
+		<TID>Biker Jaxon</TID>
+		<Party>13,26</Party>
+	</row>
+	<row>
+		<TID>Cue Ball Jamal</TID>
+		<Party>13,14,29</Party>
+	</row>
+	<row>
+		<TID>Biker William</TID>
+		<Party>13,25</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Jacob</TID>
+		<Party>13,14,28</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Wilton</TID>
+		<Party>25</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Ramiro</TID>
+		<Party>50,42</Party>
+	</row>
+	<row>
+		<TID>Juggler Nate</TID>
+		<Party>74,110</Party>
+	</row>
+	<row>
+		<TID>Juggler Kayden</TID>
+		<Party>13,26</Party>
+	</row>
+	<row>
+		<TID>Juggler Kirk</TID>
+		<Party>13,14,29</Party>
+	</row>
+	<row>
+		<TID>Tamer Edgar</TID>
+		<Party>26</Party>
+	</row>
+	<row>
+		<TID>Tamer Phil</TID>
+		<Party>50,43</Party>
+	</row>
+	<row>
+		<TID>Juggler Shawn</TID>
+		<Party>74,111</Party>
+	</row>
+	<row>
+		<TID>Leader Koga</TID>
+		<Party>13,27</Party>
+	</row>
+	<row>
+		<TID>Black Belt Hitoshi</TID>
+		<Party>13,14,30</Party>
+	</row>
+	<row>
+		<TID>Black Belt Hideki</TID>
+		<Party>13,26</Party>
+	</row>
+	<row>
+		<TID>Black Belt Aaron</TID>
+		<Party>13,14,29</Party>
+	</row>
+	<row>
+		<TID>Black Belt Mike</TID>
+		<Party>26</Party>
+	</row>
+	<row>
+		<TID>Black Belt Koichi</TID>
+		<Party>50,43</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_21</TID>
+		<Party>74,111</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_22</TID>
+		<Party>13,27</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_23</TID>
+		<Party>13,14,30</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_24</TID>
+		<Party>27</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_25</TID>
+		<Party>50,44</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_26</TID>
+		<Party>74,112</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_27</TID>
+		<Party>13,28</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_28</TID>
+		<Party>13,14,31</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_29</TID>
+		<Party>13,27</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_30</TID>
+		<Party>13,14,30</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_31</TID>
+		<Party>27</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_32</TID>
+		<Party>50,44</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_33</TID>
+		<Party>74,112</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_34</TID>
+		<Party>13,28</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_35</TID>
+		<Party>13,14,31</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_36</TID>
+		<Party>28</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_37</TID>
+		<Party>50,45</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_38</TID>
+		<Party>74,113</Party>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_39</TID>
+		<Party>13,29</Party>
+	</row>
+	<row>
+		<TID>Scientist Jerry</TID>
+		<Party>13,14,32</Party>
+	</row>
+	<row>
+		<TID>Scientist Jose</TID>
+		<Party>13,28</Party>
+	</row>
+	<row>
+		<TID>Scientist Rodney</TID>
+		<Party>13,14,31</Party>
+	</row>
+	<row>
+		<TID>Scientist Beau</TID>
+		<Party>28</Party>
+	</row>
+	<row>
+		<TID>Juggler Dalton</TID>
+		<Party>50,45</Party>
+	</row>
+	<row>
+		<TID>Scientist Taylor</TID>
+		<Party>74,113</Party>
+	</row>
+	<row>
+		<TID>Scientist Joshua</TID>
+		<Party>13,29</Party>
+	</row>
+	<row>
+		<TID>Rival_6</TID>
+		<Party>13,14,32</Party>
+	</row>
+	<row>
+		<TID>Scientist Parker</TID>
+		<Party>29</Party>
+	</row>
+	<row>
+		<TID>Scientist Ed</TID>
+		<Party>50,46</Party>
+	</row>
+	<row>
+		<TID>Scientist Travis</TID>
+		<Party>74,114</Party>
+	</row>
+	<row>
+		<TID>Boss Giovanni_2</TID>
+		<Party>13,30</Party>
+	</row>
+	<row>
+		<TID>Psychic Cameron</TID>
+		<Party>13,14,33</Party>
+	</row>
+	<row>
+		<TID>Channeler Tasha</TID>
+		<Party>13,29</Party>
+	</row>
+	<row>
+		<TID>Psychic Johan</TID>
+		<Party>13,14,32</Party>
+	</row>
+	<row>
+		<TID>Psychic Tyron</TID>
+		<Party>29</Party>
+	</row>
+	<row>
+		<TID>Channeler Stacy</TID>
+		<Party>50,46</Party>
+	</row>
+	<row>
+		<TID>Channeler Amanda</TID>
+		<Party>74,114</Party>
+	</row>
+	<row>
+		<TID>Psychic Preston</TID>
+		<Party>13,30</Party>
+	</row>
+	<row>
+		<TID>Leader Sabrina</TID>
+		<Party>13,14,33</Party>
+	</row>
+	<row>
+		<TID>Fisherman Ned</TID>
+		<Party>30</Party>
+	</row>
+	<row>
+		<TID>Fisherman Chip</TID>
+		<Party>50,47</Party>
+	</row>
+	<row>
+		<TID>Fisherman Hank</TID>
+		<Party>74,115</Party>
+	</row>
+	<row>
+		<TID>Fisherman Elliot</TID>
+		<Party>13,31</Party>
+	</row>
+	<row>
+		<TID>Rocker Luca</TID>
+		<Party>13,14,34</Party>
+	</row>
+	<row>
+		<TID>Camper Justin</TID>
+		<Party>13,30</Party>
+	</row>
+	<row>
+		<TID>Fisherman Andrew</TID>
+		<Party>13,14,33</Party>
+	</row>
+	<row>
+		<TID>Picnicker Alma</TID>
+		<Party>30</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Sebastian</TID>
+		<Party>50,47</Party>
+	</row>
+	<row>
+		<TID>Picnicker Susie</TID>
+		<Party>74,115</Party>
+	</row>
+	<row>
+		<TID>Beauty Lola</TID>
+		<Party>13,31</Party>
+	</row>
+	<row>
+		<TID>Beauty Sheila</TID>
+		<Party>13,14,34</Party>
+	</row>
+	<row>
+		<TID>Picnicker Valerie</TID>
+		<Party>31</Party>
+	</row>
+	<row>
+		<TID>Picnicker Gwen</TID>
+		<Party>50,48</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Perry</TID>
+		<Party>74,116</Party>
+	</row>
+	<row>
+		<TID>Biker Jared</TID>
+		<Party>13,32</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Robert</TID>
+		<Party>13,14,35</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Carter</TID>
+		<Party>13,31</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Mitch</TID>
+		<Party>13,14,34</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Marlon</TID>
+		<Party>31</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Beck</TID>
+		<Party>50,48</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Donald</TID>
+		<Party>74,116</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Benny</TID>
+		<Party>13,32</Party>
+	</row>
+	<row>
+		<TID>Biker Geralk</TID>
+		<Party>13,14,35</Party>
+	</row>
+	<row>
+		<TID>Biker Malik</TID>
+		<Party>32</Party>
+	</row>
+	<row>
+		<TID>Biker Isaac</TID>
+		<Party>50,49</Party>
+	</row>
+	<row>
+		<TID>Biker Lukas</TID>
+		<Party>74,117</Party>
+	</row>
+	<row>
+		<TID>Picnicker Becky</TID>
+		<Party>13,33</Party>
+	</row>
+	<row>
+		<TID>Picnicker Celia</TID>
+		<Party>13,14,36</Party>
+	</row>
+	<row>
+		<TID>Biker Ernest</TID>
+		<Party>13,32</Party>
+	</row>
+	<row>
+		<TID>Biker Alex</TID>
+		<Party>13,14,35</Party>
+	</row>
+	<row>
+		<TID>Beauty Grace</TID>
+		<Party>32</Party>
+	</row>
+	<row>
+		<TID>Beauty Olivia</TID>
+		<Party>50,49</Party>
+	</row>
+	<row>
+		<TID>Picnicker Kindra</TID>
+		<Party>74,117</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Chester</TID>
+		<Party>13,33</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Edwin</TID>
+		<Party>13,14,36</Party>
+	</row>
+	<row>
+		<TID>Picnicker Yazmin</TID>
+		<Party>33</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) Richard</TID>
+		<Party>50,50</Party>
+	</row>
+	<row>
+		<TID>Swimer (M) Reece</TID>
+		<Party>74,118</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) Tony</TID>
+		<Party>13,34</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) David</TID>
+		<Party>13,14,37</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) Douglas</TID>
+		<Party>13,33</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) Matthew</TID>
+		<Party>13,14,36</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) Axle</TID>
+		<Party>33</Party>
+	</row>
+	<row>
+		<TID>Swimmer (F) Alice</TID>
+		<Party>50,50</Party>
+	</row>
+	<row>
+		<TID>Swimmer (F) Connie</TID>
+		<Party>74,118</Party>
+	</row>
+	<row>
+		<TID>Swimmer (F) Anya</TID>
+		<Party>13,34</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) Barry</TID>
+		<Party>74,116</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) Darrin</TID>
+		<Party>13,32</Party>
+	</row>
+	<row>
+		<TID>Swimmer (F) Shirley</TID>
+		<Party>13,14,35</Party>
+	</row>
+	<row>
+		<TID>Swimmer (F) Tiffany</TID>
+		<Party>32</Party>
+	</row>
+	<row>
+		<TID>Picnicker Irene</TID>
+		<Party>50,49</Party>
+	</row>
+	<row>
+		<TID>Bird Keeper Roger</TID>
+		<Party>74,117</Party>
+	</row>
+	<row>
+		<TID>Swimmer (F) Nora</TID>
+		<Party>13,33</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) Dean</TID>
+		<Party>13,14,36</Party>
+	</row>
+	<row>
+		<TID>Picnicker Missy</TID>
+		<Party>13,32</Party>
+	</row>
+	<row>
+		<TID>Swimmer (F) Melissa</TID>
+		<Party>13,14,35</Party>
+	</row>
+	<row>
+		<TID>Youngster Johnson</TID>
+		<Party>32</Party>
+	</row>
+	<row>
+		<TID>Scientist Ted</TID>
+		<Party>50,49</Party>
+	</row>
+	<row>
+		<TID>Burglar Arnie</TID>
+		<Party>74,117</Party>
+	</row>
+	<row>
+		<TID>Burglar Simon</TID>
+		<Party>13,33</Party>
+	</row>
+	<row>
+		<TID>Scientist Braydon</TID>
+		<Party>13,14,36</Party>
+	</row>
+	<row>
+		<TID>Burglar Lewis</TID>
+		<Party>33</Party>
+	</row>
+	<row>
+		<TID>Scientist Ivan</TID>
+		<Party>50,50</Party>
+	</row>
+	<row>
+		<TID>Burglar Quinn</TID>
+		<Party>74,118</Party>
+	</row>
+	<row>
+		<TID>Super Nerd Erik</TID>
+		<Party>13,34</Party>
+	</row>
+	<row>
+		<TID>Super Nerd Avery</TID>
+		<Party>13,14,37</Party>
+	</row>
+	<row>
+		<TID>Burglar Ramon</TID>
+		<Party>13,33</Party>
+	</row>
+	<row>
+		<TID>Super Nerd Derek</TID>
+		<Party>13,14,36</Party>
+	</row>
+	<row>
+		<TID>Burglar Dusty</TID>
+		<Party>33</Party>
+	</row>
+	<row>
+		<TID>Super Nerd Zac</TID>
+		<Party>50,50</Party>
+	</row>
+	<row>
+		<TID>Leader Blaine</TID>
+		<Party>74,118</Party>
+	</row>
+	<row>
+		<TID>Fisherman Wade</TID>
+		<Party>13,34</Party>
+	</row>
+	<row>
+		<TID>Fisherman Ronald</TID>
+		<Party>13,14,37</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) Spencer</TID>
+		<Party>34</Party>
+	</row>
+	<row>
+		<TID>Fisherman Claude</TID>
+		<Party>50,51</Party>
+	</row>
+	<row>
+		<TID>Fisherman Nolan</TID>
+		<Party>74,119</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) Jack</TID>
+		<Party>13,35</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) Roland</TID>
+		<Party>13,14,38</Party>
+	</row>
+	<row>
+		<TID>Swimmer (M) Jerome</TID>
+		<Party>13,34</Party>
+	</row>
+	<row>
+		<TID>Tamer Cole</TID>
+		<Party>13,14,37</Party>
+	</row>
+	<row>
+		<TID>Black Belt Kiyo</TID>
+		<Party>34</Party>
+	</row>
+	<row>
+		<TID>Cool Trainer Samuel</TID>
+		<Party>50,51</Party>
+	</row>
+	<row>
+		<TID>Cool Trainer Yuji</TID>
+		<Party>74,119</Party>
+	</row>
+	<row>
+		<TID>Black Belt Atsushi</TID>
+		<Party>13,35</Party>
+	</row>
+	<row>
+		<TID>Tamer Jason</TID>
+		<Party>74,117</Party>
+	</row>
+	<row>
+		<TID>Cool Trainer Warren</TID>
+		<Party>13,33</Party>
+	</row>
+	<row>
+		<TID>Black Belt Takashi</TID>
+		<Party>13,14,36</Party>
+	</row>
+	<row>
+		<TID>Leader Giovanni</TID>
+		<Party>33</Party>
+	</row>
+	<row>
+		<TID>Rival</TID>
+		<Party>50,50</Party>
+	</row>
+	<row>
+		<TID>Cool Trainer Naomi</TID>
+		<Party>74,118</Party>
+	</row>
+	<row>
+		<TID>Cool Trainer Rolando</TID>
+		<Party>13,34</Party>
+	</row>
+	<row>
+		<TID>Black Belt Daisuke</TID>
+		<Party>13,14,37</Party>
+	</row>
+	<row>
+		<TID>Juggler Nelson</TID>
+		<Party>13,33</Party>
+	</row>
+	<row>
+		<TID>Tamer Vincent</TID>
+		<Party>13,14,36</Party>
+	</row>
+	<row>
+		<TID>Juggler Gregory</TID>
+		<Party>33</Party>
+	</row>
+	<row>
+		<TID>Cool Trainer George</TID>
+		<Party>50,50</Party>
+	</row>
+	<row>
+		<TID>Pokemanic Dawson</TID>
+		<Party>74,118</Party>
+	</row>
+	<row>
+		<TID>Cool Trainer Alexa</TID>
+		<Party>13,34</Party>
+	</row>
+	<row>
+		<TID>Cool Trainer Colby</TID>
+		<Party>13,14,37</Party>
+	</row>
+	<row>
+		<TID>Cool Trainer Caroline</TID>
+		<Party>34</Party>
+	</row>
+	<row>
+		<TID>Cool Couple Ray &amp; Tyra</TID>
+		<Party>50,51</Party>
+	</row>
+	<row>
+		<TID>Elite Four Lorelei</TID>
+		<Party>74,119</Party>
+	</row>
+	<row>
+		<TID>Elite Four Bruno</TID>
+		<Party>13,35</Party>
+	</row>
+	<row>
+		<TID>Elite Four Agatha</TID>
+		<Party>13,14,38</Party>
+	</row>
+	<row>
+		<TID>Elite Four Lance</TID>
+		<Party>13,34</Party>
+	</row>
+	<row>
+		<TID>Champion Rival</TID>
+		<Party>13,14,37</Party>
+	</row>
+</data-set>

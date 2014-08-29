@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<IID>ANTIDOTE</IID>
+		<LName>PokéMart
+Virdian Forest</LName>
+	</row>
+	<row>
+		<IID>AWAKENING</IID>
+		<LName>PokéMart
+Pokémon Tower</LName>
+	</row>
+	<row>
+		<IID>BICYCLE</IID>
+		<LName>Cerulean Bike Shop</LName>
+	</row>
+	<row>
+		<IID>BIKE VOUCHER</IID>
+		<LName>Vermillion Pokémon Fan Club</LName>
+	</row>
+	<row>
+		<IID>BURN HEAL</IID>
+		<LName>PokéMart</LName>
+	</row>
+	<row>
+		<IID>CALCIUM</IID>
+		<LName>Silph Co.
+Route 13
+Pokémon Mansion
+Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>CARBOS</IID>
+		<LName>Silph Co.
+Safari Zone
+Power Plant
+Pokémon Mansion
+Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>CARD KEY</IID>
+		<LName>Silph Co.
+5th Floor</LName>
+	</row>
+	<row>
+		<IID>COIN</IID>
+		<LName>Game Corner</LName>
+	</row>
+	<row>
+		<IID>COIN CASE</IID>
+		<LName>Celadon 'Resturant'</LName>
+	</row>
+	<row>
+		<IID>DIRE HIT</IID>
+		<LName>Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>DOME FOSSIL</IID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<IID>ELIXER</IID>
+		<LName>Pokémon Tower</LName>
+	</row>
+	<row>
+		<IID>ESCAPE ROPE</IID>
+		<LName>Pokémart
+Mt. Moon
+Game Corner
+Pokémon Tower
+Silph Co.
+Pokémon Mansion</LName>
+	</row>
+	<row>
+		<IID>ETHER</IID>
+		<LName>Different Areas
+S.S. Anne</LName>
+	</row>
+	<row>
+		<IID>EXP. ALL</IID>
+		<LName>Route 15</LName>
+	</row>
+	<row>
+		<IID>FIRE STONE</IID>
+		<LName>Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>FRESH WATER</IID>
+		<LName>Celadon Dept. Store Roof</LName>
+	</row>
+	<row>
+		<IID>FULL HEAL</IID>
+		<LName>PokéMart
+Silph Co.
+Victory Road</LName>
+	</row>
+	<row>
+		<IID>FULL RESTORE</IID>
+		<LName>PokéMart
+Safari Zone
+Pokémon Mansion
+2 in Cerulean Cave</LName>
+	</row>
+	<row>
+		<IID>GOLD TEETH</IID>
+		<LName>Safari Zone 3</LName>
+	</row>
+	<row>
+		<IID>GOOD ROD</IID>
+		<LName>Fuchsia City</LName>
+	</row>
+	<row>
+		<IID>GREAT BALL</IID>
+		<LName>PokéMart
+S.S. Anne</LName>
+	</row>
+	<row>
+		<IID>GUARD SPEC.</IID>
+		<LName>Celadon Dept. Store
+Victory Road</LName>
+	</row>
+	<row>
+		<IID>HELIX FOSSIL</IID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<IID>HP UP</IID>
+		<LName>Route 2
+Mt. Moon
+Game Corner
+Celadon Dept. Store
+Pokémon Tower
+Silph Co.
+Power Plant</LName>
+	</row>
+	<row>
+		<IID>HYPER POTION</IID>
+		<LName>PokéMart
+Game Corner
+Silph Co.</LName>
+	</row>
+	<row>
+		<IID>ICE HEAL</IID>
+		<LName>PokéMart</LName>
+	</row>
+	<row>
+		<IID>IRON</IID>
+		<LName>Game Corner
+Route 12
+Pokémon Mansion
+Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>ITEM FINDER</IID>
+		<LName>Route 11</LName>
+	</row>
+	<row>
+		<IID>LEAF STONE</IID>
+		<LName>Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>LEMONADE</IID>
+		<LName>Celadon Dept. Store Roof</LName>
+	</row>
+	<row>
+		<IID>LIFT KEY</IID>
+		<LName>Game Corner</LName>
+	</row>
+	<row>
+		<IID>MASTER BALL</IID>
+		<LName>Silph Co.</LName>
+	</row>
+	<row>
+		<IID>MAX ELIXER</IID>
+		<LName>Various Areas
+Cerulean Cave</LName>
+	</row>
+	<row>
+		<IID>MAX ETHER</IID>
+		<LName>Various Areas
+S.S. Anne</LName>
+	</row>
+	<row>
+		<IID>MAX POTION</IID>
+		<LName>PokéMart
+S.S. Anne
+2 in Safari Zone
+Pokémon Mansion</LName>
+	</row>
+	<row>
+		<IID>MAX REPEL</IID>
+		<LName>PokéMart</LName>
+	</row>
+	<row>
+		<IID>MAX REVIVE</IID>
+		<LName>Silph Co.
+Safari Zone
+Victory Road
+Cerulean Cave</LName>
+	</row>
+	<row>
+		<IID>MOON STONE</IID>
+		<LName>2 in Mt. Moon
+Route 2
+Game Corner
+Pokémon Mansion</LName>
+	</row>
+	<row>
+		<IID>NUGGET</IID>
+		<LName>Various Areas
+Nugget Bridge
+Game Corner
+Pokémon Tower
+Safari Zone
+Cerulean Cave</LName>
+	</row>
+	<row>
+		<IID>OAK'S PARCEL</IID>
+		<LName>Virdian City-PokéMart</LName>
+	</row>
+	<row>
+		<IID>OLD AMBER</IID>
+		<LName>Pewter City-Museum</LName>
+	</row>
+	<row>
+		<IID>OLD ROD</IID>
+		<LName>Vermillion City</LName>
+	</row>
+	<row>
+		<IID>PARALYZE HEAL</IID>
+		<LName>PokéMart</LName>
+	</row>
+	<row>
+		<IID>POKÉBALL</IID>
+		<LName>PokéMart
+Viridian Forest</LName>
+	</row>
+	<row>
+		<IID>POKÉDEX</IID>
+		<LName>Pallet Town</LName>
+	</row>
+	<row>
+		<IID>POKÉDOLL</IID>
+		<LName>Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>POKÉFLUTE</IID>
+		<LName>Pokémon Tower</LName>
+	</row>
+	<row>
+		<IID>POTION</IID>
+		<LName>PokéMart
+Pallet Town
+Route 1
+Viridian City
+Viridian Forest
+2 in Mt. Moon</LName>
+	</row>
+	<row>
+		<IID>PP UP</IID>
+		<LName>Various Areas
+Cerulean Cave</LName>
+	</row>
+	<row>
+		<IID>PROTEIN</IID>
+		<LName>Celadon Dept. Store
+Silph Co.
+Route 13
+Safari Zone</LName>
+	</row>
+	<row>
+		<IID>RARE CANDY</IID>
+		<LName>Mt. Moon
+Cerulean City
+S.S. Anne
+Game Corner
+Pokémon Tower
+Silph Co.
+Power Plant
+Pokémon Mansion
+Victory Road
+Cerulean Cave</LName>
+	</row>
+	<row>
+		<IID>REPEL</IID>
+		<LName>PokéMart</LName>
+	</row>
+	<row>
+		<IID>REVIVE</IID>
+		<LName>PokéMart</LName>
+	</row>
+	<row>
+		<IID>S.S. TICKET</IID>
+		<LName>Sea Cottage</LName>
+	</row>
+	<row>
+		<IID>SAFARI BALL (30)</IID>
+		<LName>Safari Zone</LName>
+	</row>
+	<row>
+		<IID>SECRET KEY</IID>
+		<LName>Pokémon Mansion</LName>
+	</row>
+	<row>
+		<IID>SILPH SCOPE</IID>
+		<LName>Game Corner</LName>
+	</row>
+	<row>
+		<IID>SODA POP</IID>
+		<LName>Celadon Dept. Store Roof</LName>
+	</row>
+	<row>
+		<IID>SUPER POTION</IID>
+		<LName>PokéMart
+Game Corner</LName>
+	</row>
+	<row>
+		<IID>SUPER REPEL</IID>
+		<LName>PokéMart</LName>
+	</row>
+	<row>
+		<IID>SUPER ROD</IID>
+		<LName>Route 12</LName>
+	</row>
+	<row>
+		<IID>THUNDER STONE</IID>
+		<LName>Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>TOWN MAP</IID>
+		<LName>Rival's House</LName>
+	</row>
+	<row>
+		<IID>ULTRA BALL</IID>
+		<LName>PokéMart
+2 in Cerulean Cave</LName>
+	</row>
+	<row>
+		<IID>WATER STONE</IID>
+		<LName>Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>X ACCURACY</IID>
+		<LName>Pokémon Tower
+Silph Co.
+Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>X ATTACK</IID>
+		<LName>Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>X DEFEND</IID>
+		<LName>Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>X SPECIAL</IID>
+		<LName>Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>X SPEED</IID>
+		<LName>Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>TM01</IID>
+		<LName>Mt. Moon, Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>TM02</IID>
+		<LName>Celadon Dept. Store, Game Corner</LName>
+	</row>
+	<row>
+		<IID>TM03</IID>
+		<LName>Saffron City — Silph Co.</LName>
+	</row>
+	<row>
+		<IID>TM04</IID>
+		<LName>Route 4</LName>
+	</row>
+	<row>
+		<IID>TM05</IID>
+		<LName>Victory Road, Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>TM06</IID>
+		<LName>Fuchsia City — Pokémon Gym</LName>
+	</row>
+	<row>
+		<IID>TM07</IID>
+		<LName>Celadon Dept. Store, Game Corner</LName>
+	</row>
+	<row>
+		<IID>TM08</IID>
+		<LName>Vermilion City — S.S. Anne</LName>
+	</row>
+	<row>
+		<IID>TM09</IID>
+		<LName>Saffron City, Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>TM10</IID>
+		<LName>Game Corner</LName>
+	</row>
+	<row>
+		<IID>TM11</IID>
+		<LName>Cerulean City — Pokémon Gym</LName>
+	</row>
+	<row>
+		<IID>TM12</IID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<IID>TM13</IID>
+		<LName>Celadon Dept. Store Roof - Give girl Water</LName>
+	</row>
+	<row>
+		<IID>TM14</IID>
+		<LName>Cinnabar Island — Pokémon Mansion</LName>
+	</row>
+	<row>
+		<IID>TM15</IID>
+		<LName>Celadon City - Game Corner Exchange</LName>
+	</row>
+	<row>
+		<IID>TM16</IID>
+		<LName>Route 12</LName>
+	</row>
+	<row>
+		<IID>TM17</IID>
+		<LName>Victory Road, Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>TM18</IID>
+		<LName>Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>TM19</IID>
+		<LName>Route 25</LName>
+	</row>
+	<row>
+		<IID>TM20</IID>
+		<LName>Route 15</LName>
+	</row>
+	<row>
+		<IID>TM21</IID>
+		<LName>Celadon City — Pokémon Gym</LName>
+	</row>
+	<row>
+		<IID>TM22</IID>
+		<LName>Cinnabar Island — Pokémon Mansion</LName>
+	</row>
+	<row>
+		<IID>TM23</IID>
+		<LName>Celadon City - Game Corner Exchange</LName>
+	</row>
+	<row>
+		<IID>TM24</IID>
+		<LName>Vermilion Gym</LName>
+	</row>
+	<row>
+		<IID>TM25</IID>
+		<LName>Power Plant</LName>
+	</row>
+	<row>
+		<IID>TM26</IID>
+		<LName>Saffron City — Silph Co.</LName>
+	</row>
+	<row>
+		<IID>TM27</IID>
+		<LName>Viridian City — Pokémon Gym</LName>
+	</row>
+	<row>
+		<IID>TM28</IID>
+		<LName>Cerulean City</LName>
+	</row>
+	<row>
+		<IID>TM29</IID>
+		<LName>Saffron City</LName>
+	</row>
+	<row>
+		<IID>TM30</IID>
+		<LName>Route 9</LName>
+	</row>
+	<row>
+		<IID>TM31</IID>
+		<LName>Saffron City</LName>
+	</row>
+	<row>
+		<IID>TM32</IID>
+		<LName>Fuchsia City, Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>TM33</IID>
+		<LName>Power Plant, Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>TM34</IID>
+		<LName>Pewter City — Pokémon Gym</LName>
+	</row>
+	<row>
+		<IID>TM35</IID>
+		<LName>Cinnabar Island — Pokémon Lab</LName>
+	</row>
+	<row>
+		<IID>TM36</IID>
+		<LName>Saffron City — Silph Co.</LName>
+	</row>
+	<row>
+		<IID>TM37</IID>
+		<LName>Fuchsia City, Celadon Dept. Store</LName>
+	</row>
+	<row>
+		<IID>TM38</IID>
+		<LName>Cinnabar Island — Pokémon Gym</LName>
+	</row>
+	<row>
+		<IID>TM39</IID>
+		<LName>Route 12 — Lookout Station</LName>
+	</row>
+	<row>
+		<IID>TM40</IID>
+		<LName>Fuchsia City — Safari Zone</LName>
+	</row>
+	<row>
+		<IID>TM41</IID>
+		<LName>Celadon City</LName>
+	</row>
+	<row>
+		<IID>TM42</IID>
+		<LName>Viridian City</LName>
+	</row>
+	<row>
+		<IID>TM43</IID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<IID>TM44</IID>
+		<LName>Vermilion City — S.S. Anne</LName>
+	</row>
+	<row>
+		<IID>TM45</IID>
+		<LName>Route 24</LName>
+	</row>
+	<row>
+		<IID>TM46</IID>
+		<LName>Saffron City — Pokémon Gym</LName>
+	</row>
+	<row>
+		<IID>TM47</IID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<IID>TM48</IID>
+		<LName>Celadon Dept. Store Roof - Give girl Soda</LName>
+	</row>
+	<row>
+		<IID>TM49</IID>
+		<LName>Celadon Dept. Store Roof - Give girl Lemonade</LName>
+	</row>
+	<row>
+		<IID>TM50</IID>
+		<LName>Celadon City - Game Corner Exchange</LName>
+	</row>
+	<row>
+		<IID>HM01</IID>
+		<LName>S.S. Anne</LName>
+	</row>
+	<row>
+		<IID>HM02</IID>
+		<LName>Route 16</LName>
+	</row>
+	<row>
+		<IID>HM03</IID>
+		<LName>Fuchsia City - Safari Zone</LName>
+	</row>
+	<row>
+		<IID>HM04</IID>
+		<LName>Fuchsia City</LName>
+	</row>
+	<row>
+		<IID>HM05</IID>
+		<LName>Route 2</LName>
+	</row>
+</data-set>

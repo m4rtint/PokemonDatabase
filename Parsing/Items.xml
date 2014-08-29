@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<IID>Antidote</IID>
+		<Type>Recovery</Type>
+		<Description>Cures poison</Description>
+	</row>
+	<row>
+		<IID>Awakening</IID>
+		<Type>Recovery</Type>
+		<Description>Cures sleep</Description>
+	</row>
+	<row>
+		<IID>Bicycle</IID>
+		<Type>Key</Type>
+		<Description>Allows you to travel faster</Description>
+	</row>
+	<row>
+		<IID>Bike Voucher</IID>
+		<Type>Key</Type>
+		<Description>Used to get a FREE Bike</Description>
+	</row>
+	<row>
+		<IID>Burn Heal</IID>
+		<Type>Recovery</Type>
+		<Description>Heals burns</Description>
+	</row>
+	<row>
+		<IID>Calcium</IID>
+		<Type>Vitamins</Type>
+		<Description>Increases Special level</Description>
+	</row>
+	<row>
+		<IID>Carbos</IID>
+		<Type>Vitamins</Type>
+		<Description>Increases Speed level</Description>
+	</row>
+	<row>
+		<IID>Card Key</IID>
+		<Type>Key</Type>
+		<Description>Unlocks Silph Co. doors</Description>
+	</row>
+	<row>
+		<IID>Coin</IID>
+		<Type>Miscellaneous</Type>
+		<Description>Slot Machine money</Description>
+	</row>
+	<row>
+		<IID>Coin Case</IID>
+		<Type>Key</Type>
+		<Description>Holds coins</Description>
+	</row>
+	<row>
+		<IID>Dire Hit</IID>
+		<Type>Battle</Type>
+		<Description>Increases attack effectiveness</Description>
+	</row>
+	<row>
+		<IID>Dome Fossil</IID>
+		<Type>Miscellaneous</Type>
+		<Description>Changes into Kabuto</Description>
+	</row>
+	<row>
+		<IID>Elixir</IID>
+		<Type>Recovery</Type>
+		<Description>Gives 10 PP to all Attacks</Description>
+	</row>
+	<row>
+		<IID>Escape Rope</IID>
+		<Type>Miscellaneous</Type>
+		<Description>Used to escape an area</Description>
+	</row>
+	<row>
+		<IID>Ether</IID>
+		<Type>Recovery</Type>
+		<Description>Gives 10 PP to one Ability</Description>
+	</row>
+	<row>
+		<IID>Exp. Share</IID>
+		<Type>Key</Type>
+		<Description>Shares experience points</Description>
+	</row>
+	<row>
+		<IID>Fire Stone</IID>
+		<Type>Stone</Type>
+		<Description>Evolves some Fire Pokémon</Description>
+	</row>
+	<row>
+		<IID>Fresh Water</IID>
+		<Type>Recovery</Type>
+		<Description>Quenches thirsts
+Restores 50 HP</Description>
+	</row>
+	<row>
+		<IID>Full Heal</IID>
+		<Type>Recovery</Type>
+		<Description>Cures any ailments</Description>
+	</row>
+	<row>
+		<IID>Full Restore</IID>
+		<Type>Recovery</Type>
+		<Description>Cures any ailments
+Restores all HP</Description>
+	</row>
+	<row>
+		<IID>Gold Teeth</IID>
+		<Type>Key</Type>
+		<Description>Helps Warden to Speak</Description>
+	</row>
+	<row>
+		<IID>Good Rod</IID>
+		<Type>Key</Type>
+		<Description>Used to fish</Description>
+	</row>
+	<row>
+		<IID>Great Ball</IID>
+		<Type>Ball</Type>
+		<Description>More Effective than a Pokéball</Description>
+	</row>
+	<row>
+		<IID>Guard Spec.</IID>
+		<Type>Battle</Type>
+		<Description>Disables Special Attacks</Description>
+	</row>
+	<row>
+		<IID>Helix Fossil</IID>
+		<Type>Miscellaneous</Type>
+		<Description>Changes into Omanyte</Description>
+	</row>
+	<row>
+		<IID>HP Up</IID>
+		<Type>Vitamins</Type>
+		<Description>Increases HP by 1</Description>
+	</row>
+	<row>
+		<IID>Hyper Potion</IID>
+		<Type>Recovery</Type>
+		<Description>Restores 200 HP</Description>
+	</row>
+	<row>
+		<IID>Ice Heal</IID>
+		<Type>Recovery</Type>
+		<Description>Heals frozen Pokémon</Description>
+	</row>
+	<row>
+		<IID>Iron</IID>
+		<Type>Vitamins</Type>
+		<Description>Increases Defense level</Description>
+	</row>
+	<row>
+		<IID>Itemfinder</IID>
+		<Type>Key</Type>
+		<Description>Finds Hidden Items</Description>
+	</row>
+	<row>
+		<IID>Leaf Stone</IID>
+		<Type>Stone</Type>
+		<Description>Evolves some Grass Pokémon</Description>
+	</row>
+	<row>
+		<IID>Lemonade</IID>
+		<Type>Recovery</Type>
+		<Description>Quenches thirst
+Restores 80 HP</Description>
+	</row>
+	<row>
+		<IID>Lift Key</IID>
+		<Type>Key</Type>
+		<Description>Activates Game Corner Elevator</Description>
+	</row>
+	<row>
+		<IID>Master Ball</IID>
+		<Type>Ball</Type>
+		<Description>Catches Pokémon 100% of time</Description>
+	</row>
+	<row>
+		<IID>Max Elixir</IID>
+		<Type>Recovery</Type>
+		<Description>Restores all PP</Description>
+	</row>
+	<row>
+		<IID>Max Ether</IID>
+		<Type>Recovery</Type>
+		<Description>Restores all PP of 1 ability</Description>
+	</row>
+	<row>
+		<IID>Max Potion</IID>
+		<Type>Recovery</Type>
+		<Description>Restores all HP</Description>
+	</row>
+	<row>
+		<IID>Max Repel</IID>
+		<Type>Miscellaneous</Type>
+		<Description>Prevents wild Pokémon from attacking</Description>
+	</row>
+	<row>
+		<IID>Max Revive</IID>
+		<Type>Recovery</Type>
+		<Description>Revives
+Restores all HP</Description>
+	</row>
+	<row>
+		<IID>Moon Stone</IID>
+		<Type>Stone</Type>
+		<Description>Evolves some Pokémon</Description>
+	</row>
+	<row>
+		<IID>Nugget</IID>
+		<Type>Miscellaneous</Type>
+		<Description>Sold for 5000</Description>
+	</row>
+	<row>
+		<IID>Oak's Parcel</IID>
+		<Type>Key</Type>
+		<Description>Exchange for Pokédex</Description>
+	</row>
+	<row>
+		<IID>Old Amber</IID>
+		<Type>Miscellaneous</Type>
+		<Description>Changes into Aerodactyl</Description>
+	</row>
+	<row>
+		<IID>Old Rod</IID>
+		<Type>Key</Type>
+		<Description>Fish for Magicarp</Description>
+	</row>
+	<row>
+		<IID>Parlyz Heal</IID>
+		<Type>Recovery</Type>
+		<Description>Heals Paralysis</Description>
+	</row>
+	<row>
+		<IID>Poké Ball</IID>
+		<Type>Ball</Type>
+		<Description>Lowest odds of catching Pokémon</Description>
+	</row>
+	<row>
+		<IID>Poké Doll</IID>
+		<Type>Miscellaneous</Type>
+		<Description>Distracts Opponents
+Makes girls happy</Description>
+	</row>
+	<row>
+		<IID>Poké Flute</IID>
+		<Type>Key</Type>
+		<Description>Wakes sleeping Pokémon</Description>
+	</row>
+	<row>
+		<IID>Pokédex</IID>
+		<Type>Key</Type>
+		<Description>Records Pokémon Data</Description>
+	</row>
+	<row>
+		<IID>Potion</IID>
+		<Type>Recovery</Type>
+		<Description>Restores 20 HP</Description>
+	</row>
+	<row>
+		<IID>PP Up*</IID>
+		<Type>Vitamins</Type>
+		<Description>Increases PP by 1</Description>
+	</row>
+	<row>
+		<IID>Protein</IID>
+		<Type>Vitamins</Type>
+		<Description>Increases Attack level</Description>
+	</row>
+	<row>
+		<IID>Rare Candy</IID>
+		<Type>Vitamins</Type>
+		<Description>Increases Exp Level by 1</Description>
+	</row>
+	<row>
+		<IID>Repel</IID>
+		<Type>Miscellaneous</Type>
+		<Description>Prevents wild Pokémon from attacking</Description>
+	</row>
+	<row>
+		<IID>Revive</IID>
+		<Type>Recovery</Type>
+		<Description>Revives fainted Pokémon</Description>
+	</row>
+	<row>
+		<IID>S.S. Ticket</IID>
+		<Type>Key</Type>
+		<Description>Used to Board S.S. Anne</Description>
+	</row>
+	<row>
+		<IID>Safari Ball</IID>
+		<Type>Ball</Type>
+		<Description>Used in Safari Zone</Description>
+	</row>
+	<row>
+		<IID>Secret Key</IID>
+		<Type>Key</Type>
+		<Description>Unlocks Cinnabar Island Gym</Description>
+	</row>
+	<row>
+		<IID>Silph Scope</IID>
+		<Type>Key</Type>
+		<Description>Used to identify Ghosts</Description>
+	</row>
+	<row>
+		<IID>Soda Pop</IID>
+		<Type>Recovery</Type>
+		<Description>Quenches Thirsts
+Restores 60 HP</Description>
+	</row>
+	<row>
+		<IID>Super Potion</IID>
+		<Type>Recovery</Type>
+		<Description>Restores 50 HP</Description>
+	</row>
+	<row>
+		<IID>Super Repel</IID>
+		<Type>Miscellaneous</Type>
+		<Description>Prevents wild Pokémon from attacking</Description>
+	</row>
+	<row>
+		<IID>Super Rod</IID>
+		<Type>Key</Type>
+		<Description>Fishes for Pokémon</Description>
+	</row>
+	<row>
+		<IID>Thunder Stone</IID>
+		<Type>Stone</Type>
+		<Description>Evolves Pikachu</Description>
+	</row>
+	<row>
+		<IID>Town Map</IID>
+		<Type>Key</Type>
+		<Description>Shows you where you are</Description>
+	</row>
+	<row>
+		<IID>Ultra Ball</IID>
+		<Type>Ball</Type>
+		<Description>Better than Great Balls</Description>
+	</row>
+	<row>
+		<IID>Water Stone</IID>
+		<Type>Stone</Type>
+		<Description>Evolves some water Pokémon</Description>
+	</row>
+	<row>
+		<IID>X Accuracy</IID>
+		<Type>Battle</Type>
+		<Description>Boosts Accuracy Temporarily</Description>
+	</row>
+	<row>
+		<IID>X Attack</IID>
+		<Type>Battle</Type>
+		<Description>Boosts Attack Temporarily</Description>
+	</row>
+	<row>
+		<IID>X Defend</IID>
+		<Type>Battle</Type>
+		<Description>Boosts Defense Temporarily</Description>
+	</row>
+	<row>
+		<IID>X Special</IID>
+		<Type>Battle</Type>
+		<Description>Boosts Special Temporarily</Description>
+	</row>
+	<row>
+		<IID>X Speed</IID>
+		<Type>Battle</Type>
+		<Description>Boosts Speed Temporarily</Description>
+	</row>
+	<row>
+		<IID>TM01</IID>
+		<Type>Technical Machine</Type>
+		<Description>Mega Punch</Description>
+	</row>
+	<row>
+		<IID>TM02</IID>
+		<Type>Technical Machine</Type>
+		<Description>Razor Wind</Description>
+	</row>
+	<row>
+		<IID>TM03</IID>
+		<Type>Technical Machine</Type>
+		<Description>Sword's Dance</Description>
+	</row>
+	<row>
+		<IID>TM04</IID>
+		<Type>Technical Machine</Type>
+		<Description>Whirlwind</Description>
+	</row>
+	<row>
+		<IID>TM05</IID>
+		<Type>Technical Machine</Type>
+		<Description>Mega Kick</Description>
+	</row>
+	<row>
+		<IID>TM06</IID>
+		<Type>Technical Machine</Type>
+		<Description>Toxic</Description>
+	</row>
+	<row>
+		<IID>TM07</IID>
+		<Type>Technical Machine</Type>
+		<Description>Horn Drill</Description>
+	</row>
+	<row>
+		<IID>TM08</IID>
+		<Type>Technical Machine</Type>
+		<Description>Body Slam</Description>
+	</row>
+	<row>
+		<IID>TM09</IID>
+		<Type>Technical Machine</Type>
+		<Description>Take Down</Description>
+	</row>
+	<row>
+		<IID>TM10</IID>
+		<Type>Technical Machine</Type>
+		<Description>Double Edge</Description>
+	</row>
+	<row>
+		<IID>TM11</IID>
+		<Type>Technical Machine</Type>
+		<Description>Bubble Beam</Description>
+	</row>
+	<row>
+		<IID>TM12</IID>
+		<Type>Technical Machine</Type>
+		<Description>Water Gun</Description>
+	</row>
+	<row>
+		<IID>TM13</IID>
+		<Type>Technical Machine</Type>
+		<Description>Ice Beam</Description>
+	</row>
+	<row>
+		<IID>TM14</IID>
+		<Type>Technical Machine</Type>
+		<Description>Blizzard</Description>
+	</row>
+	<row>
+		<IID>TM15</IID>
+		<Type>Technical Machine</Type>
+		<Description>Hyper Beam</Description>
+	</row>
+	<row>
+		<IID>TM16</IID>
+		<Type>Technical Machine</Type>
+		<Description>Pay Day</Description>
+	</row>
+	<row>
+		<IID>TM17</IID>
+		<Type>Technical Machine</Type>
+		<Description>Submission</Description>
+	</row>
+	<row>
+		<IID>TM18</IID>
+		<Type>Technical Machine</Type>
+		<Description>Counter</Description>
+	</row>
+	<row>
+		<IID>TM19</IID>
+		<Type>Technical Machine</Type>
+		<Description>Seismic Toss</Description>
+	</row>
+	<row>
+		<IID>TM20</IID>
+		<Type>Technical Machine</Type>
+		<Description>Rage</Description>
+	</row>
+	<row>
+		<IID>TM21</IID>
+		<Type>Technical Machine</Type>
+		<Description>Mega Drain</Description>
+	</row>
+	<row>
+		<IID>TM22</IID>
+		<Type>Technical Machine</Type>
+		<Description>Solar Beam</Description>
+	</row>
+	<row>
+		<IID>TM23</IID>
+		<Type>Technical Machine</Type>
+		<Description>Dragon Rage</Description>
+	</row>
+	<row>
+		<IID>TM24</IID>
+		<Type>Technical Machine</Type>
+		<Description>Thunderbolt</Description>
+	</row>
+	<row>
+		<IID>TM25</IID>
+		<Type>Technical Machine</Type>
+		<Description>Thunder</Description>
+	</row>
+	<row>
+		<IID>TM26</IID>
+		<Type>Technical Machine</Type>
+		<Description>Earthquake</Description>
+	</row>
+	<row>
+		<IID>TM27</IID>
+		<Type>Technical Machine</Type>
+		<Description>Fissure</Description>
+	</row>
+	<row>
+		<IID>TM28</IID>
+		<Type>Technical Machine</Type>
+		<Description>Dig</Description>
+	</row>
+	<row>
+		<IID>TM29</IID>
+		<Type>Technical Machine</Type>
+		<Description>Psychic</Description>
+	</row>
+	<row>
+		<IID>TM30</IID>
+		<Type>Technical Machine</Type>
+		<Description>Teleport</Description>
+	</row>
+	<row>
+		<IID>TM31</IID>
+		<Type>Technical Machine</Type>
+		<Description>Mimic</Description>
+	</row>
+	<row>
+		<IID>TM32</IID>
+		<Type>Technical Machine</Type>
+		<Description>Double Team</Description>
+	</row>
+	<row>
+		<IID>TM33</IID>
+		<Type>Technical Machine</Type>
+		<Description>Reflect</Description>
+	</row>
+	<row>
+		<IID>TM34</IID>
+		<Type>Technical Machine</Type>
+		<Description>Bide</Description>
+	</row>
+	<row>
+		<IID>TM35</IID>
+		<Type>Technical Machine</Type>
+		<Description>Metronome</Description>
+	</row>
+	<row>
+		<IID>TM36</IID>
+		<Type>Technical Machine</Type>
+		<Description>Self Destruct</Description>
+	</row>
+	<row>
+		<IID>TM37</IID>
+		<Type>Technical Machine</Type>
+		<Description>Egg Bomb</Description>
+	</row>
+	<row>
+		<IID>TM38</IID>
+		<Type>Technical Machine</Type>
+		<Description>Fire Blast</Description>
+	</row>
+	<row>
+		<IID>TM39</IID>
+		<Type>Technical Machine</Type>
+		<Description>Swift</Description>
+	</row>
+	<row>
+		<IID>TM40</IID>
+		<Type>Technical Machine</Type>
+		<Description>Skull Bash</Description>
+	</row>
+	<row>
+		<IID>TM41</IID>
+		<Type>Technical Machine</Type>
+		<Description>Soft Boiled</Description>
+	</row>
+	<row>
+		<IID>TM42</IID>
+		<Type>Technical Machine</Type>
+		<Description>Dream Eater</Description>
+	</row>
+	<row>
+		<IID>TM43</IID>
+		<Type>Technical Machine</Type>
+		<Description>Sky Attack</Description>
+	</row>
+	<row>
+		<IID>TM44</IID>
+		<Type>Technical Machine</Type>
+		<Description>Rest</Description>
+	</row>
+	<row>
+		<IID>TM45</IID>
+		<Type>Technical Machine</Type>
+		<Description>Thunder Wave</Description>
+	</row>
+	<row>
+		<IID>TM46</IID>
+		<Type>Technical Machine</Type>
+		<Description>Psywave</Description>
+	</row>
+	<row>
+		<IID>TM47</IID>
+		<Type>Technical Machine</Type>
+		<Description>Explosion</Description>
+	</row>
+	<row>
+		<IID>TM48</IID>
+		<Type>Technical Machine</Type>
+		<Description>Rock Slide</Description>
+	</row>
+	<row>
+		<IID>TM49</IID>
+		<Type>Technical Machine</Type>
+		<Description>Tri Attack</Description>
+	</row>
+	<row>
+		<IID>TM50</IID>
+		<Type>Technical Machine</Type>
+		<Description>Substitute</Description>
+	</row>
+	<row>
+		<IID>HM01</IID>
+		<Type>Hidden Machine</Type>
+		<Description>Cut</Description>
+	</row>
+	<row>
+		<IID>HM02</IID>
+		<Type>Hidden Machine</Type>
+		<Description>Fly</Description>
+	</row>
+	<row>
+		<IID>HM03</IID>
+		<Type>Hidden Machine</Type>
+		<Description>Surf</Description>
+	</row>
+	<row>
+		<IID>HM04</IID>
+		<Type>Hidden Machine</Type>
+		<Description>Strength</Description>
+	</row>
+	<row>
+		<IID>HM05</IID>
+		<Type>Hidden Machine</Type>
+		<Description>Flash</Description>
+	</row>
+</data-set>

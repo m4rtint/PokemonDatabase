@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<Name>Absorb</Name>
+		<Type>GRASS</Type>
+		<PP>25</PP>
+		<Effect>User recovers half the HP inflicted on opponent.</Effect>
+		<PID>43,44,114,140,141</PID>
+	</row>
+	<row>
+		<Name>Acid</Name>
+		<Type>POISON</Type>
+		<PP>30</PP>
+		<Effect>May lower opponent's Special Defense.</Effect>
+		<PID>23,24,43,44,69,70,72,73</PID>
+	</row>
+	<row>
+		<Name>Acid Armor</Name>
+		<Type>POISON</Type>
+		<PP>20</PP>
+		<Effect>Sharply raises user's Defense.</Effect>
+		<PID>88,89,134</PID>
+	</row>
+	<row>
+		<Name>Agility</Name>
+		<Type>PSYCHIC</Type>
+		<PP>30</PP>
+		<Effect>Sharply raises user's Speed.</Effect>
+		<PID>15,16,17,18,21,22,25,58,77,78,83,84,85,107,116,117,118,119,123,135,137,142,144,145,146,147,148,149</PID>
+	</row>
+	<row>
+		<Name>Amnesia</Name>
+		<Type>PSYCHIC</Type>
+		<PP>20</PP>
+		<Effect>Sharply raises user's Special Defense.</Effect>
+		<PID>54,55,79,80,143,150,151</PID>
+	</row>
+	<row>
+		<Name>Aurora Beam</Name>
+		<Type>ICE</Type>
+		<PP>20</PP>
+		<Effect>May lower opponent's Attack.</Effect>
+		<PID>86,87,90,91,134</PID>
+	</row>
+	<row>
+		<Name>Barrage</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Hits 2-5 times in one turn.</Effect>
+		<PID>102103</PID>
+	</row>
+	<row>
+		<Name>Barrier</Name>
+		<Type>PSYCHIC</Type>
+		<PP>20</PP>
+		<Effect>Sharply raises user's Defense.</Effect>
+		<PID>72,73,122,150,151</PID>
+	</row>
+	<row>
+		<Name>Bind</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Traps opponent, damaging them for 4-5 turns.</Effect>
+		<PID>95114127</PID>
+	</row>
+	<row>
+		<Name>Bite</Name>
+		<Type>NORMAL</Type>
+		<PP>25</PP>
+		<Effect>May cause flinching.</Effect>
+		<PID>7,8,9,19,20,23,24,29,30,41,42,52,53,58,59,115,130,133,134,136,138,139,142</PID>
+	</row>
+	<row>
+		<Name>Blizzard</Name>
+		<Type>ICE</Type>
+		<PP>5</PP>
+		<Effect>May freeze opponent.</Effect>
+		<PID>124144</PID>
+	</row>
+	<row>
+		<Name>Body Slam</Name>
+		<Type>NORMAL</Type>
+		<PP>15</PP>
+		<Effect>May paralyze opponent.</Effect>
+		<PID>31,39,60,61,124,131,143</PID>
+	</row>
+	<row>
+		<Name>Bone Club</Name>
+		<Type>GROUND</Type>
+		<PP>20</PP>
+		<Effect>May cause flinching.</Effect>
+		<PID>104105</PID>
+	</row>
+	<row>
+		<Name>Bonemerang</Name>
+		<Type>GROUND</Type>
+		<PP>10</PP>
+		<Effect>Hits twice in one turn.</Effect>
+		<PID>104105</PID>
+	</row>
+	<row>
+		<Name>Bubble</Name>
+		<Type>WATER</Type>
+		<PP>30</PP>
+		<Effect>May lower opponent's Speed.</Effect>
+		<PID>7,8,9,60,61,98,99,116,117</PID>
+	</row>
+	<row>
+		<Name>Bubble Beam</Name>
+		<Type>WATER</Type>
+		<PP>20</PP>
+		<Effect>May lower opponent's Speed.</Effect>
+		<PID>72,73,120</PID>
+	</row>
+	<row>
+		<Name>Clamp</Name>
+		<Type>WATER</Type>
+		<PP>10</PP>
+		<Effect>Traps opponent, damaging them for 4-5 turns.</Effect>
+		<PID>90</PID>
+	</row>
+	<row>
+		<Name>Comet Punch</Name>
+		<Type>NORMAL</Type>
+		<PP>15</PP>
+		<Effect>Hits 2-5 times in one turn.</Effect>
+		<PID>107115</PID>
+	</row>
+	<row>
+		<Name>Confuse Ray</Name>
+		<Type>GHOST</Type>
+		<PP>10</PP>
+		<Effect>Confuses opponent.</Effect>
+		<PID>37,38,41,42,92,93,94,121,126,131</PID>
+	</row>
+	<row>
+		<Name>Confusion</Name>
+		<Type>PSYCHIC</Type>
+		<PP>25</PP>
+		<Effect>May confuse opponent.</Effect>
+		<PID>12,48,49,54,55,64,65,79,80,96,97,122,150</PID>
+	</row>
+	<row>
+		<Name>Constrict</Name>
+		<Type>NORMAL</Type>
+		<PP>35</PP>
+		<Effect>May lower opponent's Speed by one stage.</Effect>
+		<PID>72,74,114</PID>
+	</row>
+	<row>
+		<Name>Conversion</Name>
+		<Type>NORMAL</Type>
+		<PP>30</PP>
+		<Effect>Changes user's type to a type of one of its own moves.</Effect>
+		<PID>137</PID>
+	</row>
+	<row>
+		<Name>Counter</Name>
+		<Type>FIGHTING</Type>
+		<PP>20</PP>
+		<Effect>When hit by a Physical Attack, user strikes back with 2x power.</Effect>
+		<PID>107</PID>
+	</row>
+	<row>
+		<Name>Crabhammer</Name>
+		<Type>WATER</Type>
+		<PP>10</PP>
+		<Effect>High critical hit ratio.</Effect>
+		<PID>98,99</PID>
+	</row>
+	<row>
+		<Name>Cut</Name>
+		<Type>NORMAL</Type>
+		<PP>30</PP>
+		<Effect>Cuts using claws, scythes, etc.</Effect>
+		<PID>1,2,3,4,5,6,15,19,20,27,28,29,30,31,32,33,34,43,44,45,46,47,50,51,52,53,69,70,71,72,73,83,98,99,108,112,114,115,123,127,141,149,151</PID>
+	</row>
+	<row>
+		<Name>Defense Curl</Name>
+		<Type>NORMAL</Type>
+		<PP>40</PP>
+		<Effect>Raises user's Defense.</Effect>
+		<PID>35,39,40,74,75,76,108,113</PID>
+	</row>
+	<row>
+		<Name>Dig</Name>
+		<Type>GROUND</Type>
+		<PP>10</PP>
+		<Effect>Digs underground on first turn, attacks on second. Can also escape from caves.</Effect>
+		<PID>50,51</PID>
+	</row>
+	<row>
+		<Name>Disable</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Opponent can't use its last attack for a few turns.</Effect>
+		<PID>39,40,48,49,54,55,64,65,9,80,89,96,97,108,150</PID>
+	</row>
+	<row>
+		<Name>Dizzy Punch</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>May confuse opponent.</Effect>
+		<PID>115</PID>
+	</row>
+	<row>
+		<Name>Double Kick</Name>
+		<Type>FIGHTING</Type>
+		<PP>30</PP>
+		<Effect>Hits twice in one turn.</Effect>
+		<PID>29,30,32,33,106,135</PID>
+	</row>
+	<row>
+		<Name>Double Slap</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>Hits 2-5 times in one turn.</Effect>
+		<PID>35,36,39,40,60,61,62,113,122,124</PID>
+	</row>
+	<row>
+		<Name>Double Team</Name>
+		<Type>NORMAL</Type>
+		<PP>15</PP>
+		<Effect>Raises user's Evasiveness.</Effect>
+		<PID>25123</PID>
+	</row>
+	<row>
+		<Name>Double-Edge</Name>
+		<Type>NORMAL</Type>
+		<PP>15</PP>
+		<Effect>User receives recoil damage.</Effect>
+		<PID>39113143</PID>
+	</row>
+	<row>
+		<Name>Dragon Rage</Name>
+		<Type>DRAGON</Type>
+		<PP>10</PP>
+		<Effect>Always inflicts 40 HP.</Effect>
+		<PID>130,147,148,149,</PID>
+	</row>
+	<row>
+		<Name>Dream Eater</Name>
+		<Type>PSYCHIC</Type>
+		<PP>15</PP>
+		<Effect>User recovers half the HP inflicted on a sleeping opponent.</Effect>
+		<PID>92,93,94</PID>
+	</row>
+	<row>
+		<Name>Drill Peck</Name>
+		<Type>FLYING</Type>
+		<PP>20</PP>
+		<Effect>A strong, spinning-peck attack.</Effect>
+		<PID>21,22,84,85,145</PID>
+	</row>
+	<row>
+		<Name>Earthquake</Name>
+		<Type>GROUND</Type>
+		<PP>10</PP>
+		<Effect>Power is doubled if opponent is underground from using Dig.</Effect>
+		<PID>50,51,74,75,76,111,112</PID>
+	</row>
+	<row>
+		<Name>Egg Bomb</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>Eggs are hurled at the foe.</Effect>
+		<PID>103133</PID>
+	</row>
+	<row>
+		<Name>Ember</Name>
+		<Type>FIRE</Type>
+		<PP>25</PP>
+		<Effect>May burn opponent.</Effect>
+		<PID>4,5,6,37,38,58,59,77,78,126,136,146</PID>
+	</row>
+	<row>
+		<Name>Explosion</Name>
+		<Type>NORMAL</Type>
+		<PP>5</PP>
+		<Effect>User faints.</Effect>
+		<PID>74,75,76,100,101,109,110</PID>
+	</row>
+	<row>
+		<Name>Fire Blast</Name>
+		<Type>FIRE</Type>
+		<PP>5</PP>
+		<Effect>May burn opponent.</Effect>
+		<PID>77,78,126</PID>
+	</row>
+	<row>
+		<Name>Fire Punch</Name>
+		<Type>FIRE</Type>
+		<PP>15</PP>
+		<Effect>May burn opponent.</Effect>
+		<PID>107126</PID>
+	</row>
+	<row>
+		<Name>Fire Spin</Name>
+		<Type>FIRE</Type>
+		<PP>15</PP>
+		<Effect>Traps opponent, damaging them for 4-5 turns.</Effect>
+		<PID>4,5,6,37,38,77,78,126,146</PID>
+	</row>
+	<row>
+		<Name>Fissure</Name>
+		<Type>GROUND</Type>
+		<PP>5</PP>
+		<Effect>One-Hit-KO, if it hits.</Effect>
+		<PID>50,51</PID>
+	</row>
+	<row>
+		<Name>Flamethrower</Name>
+		<Type>FIRE</Type>
+		<PP>15</PP>
+		<Effect>May burn opponent.</Effect>
+		<PID>4,5,6,37,58,126,136,146</PID>
+	</row>
+	<row>
+		<Name>Flash</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Lowers opponent's Accuracy.</Effect>
+		<PID>1,2,3,12,25,26,35,36,39,40,43,44,45,46,47,48,49,52,53,54,55,63,64,65,69,70,71,79,80,81,82,96,97,100,101,102,103,109,110,113,114,120,121,122,124,125,135,137,145,150,151</PID>
+	</row>
+	<row>
+		<Name>Fly</Name>
+		<Type>FLYING</Type>
+		<PP>15</PP>
+		<Effect>Flies up on first turn, attacks on second turn.</Effect>
+		<PID>6,16,17,18,21,22,83,84,85,142,144,145,146,149,151</PID>
+	</row>
+	<row>
+		<Name>Focus Energy</Name>
+		<Type>NORMAL</Type>
+		<PP>30</PP>
+		<Effect>Increases critical hit ratio.</Effect>
+		<PID>15,19,32,33,34,56,57,66,67,68,104,105,106,123,127</PID>
+	</row>
+	<row>
+		<Name>Fury Attack</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Hits 2-5 times in one turn.</Effect>
+		<PID>15,21,22,32,33,78,83,84,85,111,112,118,119</PID>
+	</row>
+	<row>
+		<Name>Fury Swipes</Name>
+		<Type>NORMAL</Type>
+		<PP>15</PP>
+		<Effect>Hits 2-5 times in one turn.</Effect>
+		<PID>19,20,27,28,29,30,52,53,54,55,56,57</PID>
+	</row>
+	<row>
+		<Name>Glare</Name>
+		<Type>NORMAL</Type>
+		<PP>30</PP>
+		<Effect>Paralyzes opponent.</Effect>
+		<PID>23,24</PID>
+	</row>
+	<row>
+		<Name>Growl</Name>
+		<Type>NORMAL</Type>
+		<PP>40</PP>
+		<Effect>Lowers opponent's Attack.</Effect>
+		<PID>1,2,3,4,5,6,21,22,25,29,30,35,50,51,52,53,77,78,79,80,84,85,86,87,104,105,113,131,133</PID>
+	</row>
+	<row>
+		<Name>Growth</Name>
+		<Type>NORMAL</Type>
+		<PP>40</PP>
+		<Effect>Raises user's Attack and Special Attack.</Effect>
+		<PID>1,2,3,46,47,69,70,114</PID>
+	</row>
+	<row>
+		<Name>Guillotine</Name>
+		<Type>NORMAL</Type>
+		<PP>5</PP>
+		<Effect>One-Hit-KO, if it hits.</Effect>
+		<PID>98,99,127</PID>
+	</row>
+	<row>
+		<Name>Gust</Name>
+		<Type>FLYING</Type>
+		<PP>35</PP>
+		<Effect>Hits Pokémon using Fly/Bounce with double power.</Effect>
+		<PID>12,16,17,18,41,42,49,83,144</PID>
+	</row>
+	<row>
+		<Name>Harden</Name>
+		<Type>NORMAL</Type>
+		<PP>30</PP>
+		<Effect>Raises user's Defense.</Effect>
+		<PID>11,14,88,89,95,98,99,120,127,140,141</PID>
+	</row>
+	<row>
+		<Name>Haze</Name>
+		<Type>ICE</Type>
+		<PP>30</PP>
+		<Effect>Resets all stat changes.</Effect>
+		<PID>23,24,41,42,109,110,134,144</PID>
+	</row>
+	<row>
+		<Name>Headbutt</Name>
+		<Type>NORMAL</Type>
+		<PP>15</PP>
+		<Effect>May cause flinching.</Effect>
+		<PID>79,80,86,87,96,97,104,105,143</PID>
+	</row>
+	<row>
+		<Name>High Jump Kick</Name>
+		<Type>FIGHTING</Type>
+		<PP>10</PP>
+		<Effect>If it misses, the user loses half their HP.</Effect>
+		<PID>106107</PID>
+	</row>
+	<row>
+		<Name>Horn Attack</Name>
+		<Type>NORMAL</Type>
+		<PP>25</PP>
+		<Effect>An attack using a horn to jab.</Effect>
+		<PID>32,33,111,112,118,119,128</PID>
+	</row>
+	<row>
+		<Name>Horn Drill</Name>
+		<Type>NORMAL</Type>
+		<PP>5</PP>
+		<Effect>One-Hit-KO, if it hits.</Effect>
+		<PID>32,33,111,112,118,119</PID>
+	</row>
+	<row>
+		<Name>Hydro Pump</Name>
+		<Type>WATER</Type>
+		<PP>5</PP>
+		<Effect>A powerful water- type attack.</Effect>
+		<PID>7,8,9,54,55,60,61,72,73,116,117,120,130,131,134,138,139</PID>
+	</row>
+	<row>
+		<Name>Hyper Beam</Name>
+		<Type>NORMAL</Type>
+		<PP>5</PP>
+		<Effect>User must recharge next turn.</Effect>
+		<PID>130,142,143,147,148,149</PID>
+	</row>
+	<row>
+		<Name>Hyper Fang</Name>
+		<Type>NORMAL</Type>
+		<PP>15</PP>
+		<Effect>May cause flinching.</Effect>
+		<PID>19,20</PID>
+	</row>
+	<row>
+		<Name>Hypnosis</Name>
+		<Type>PSYCHIC</Type>
+		<PP>20</PP>
+		<Effect>Puts opponent to sleep.</Effect>
+		<PID>60,61,62,92,93,96,97,102,103</PID>
+	</row>
+	<row>
+		<Name>Ice Beam</Name>
+		<Type>ICE</Type>
+		<PP>10</PP>
+		<Effect>May freeze opponent.</Effect>
+		<PID>86,87,90,131,144</PID>
+	</row>
+	<row>
+		<Name>Ice Punch</Name>
+		<Type>ICE</Type>
+		<PP>15</PP>
+		<Effect>May freeze opponent.</Effect>
+		<PID>107124</PID>
+	</row>
+	<row>
+		<Name>Jump Kick</Name>
+		<Type>FIGHTING</Type>
+		<PP>10</PP>
+		<Effect>If it misses, the user loses half their HP.</Effect>
+		<PID>106</PID>
+	</row>
+	<row>
+		<Name>Karate Chop</Name>
+		<Type>FIGHTING</Type>
+		<PP>25</PP>
+		<Effect>High critical hit ratio.</Effect>
+		<PID>56,57,66,67,68</PID>
+	</row>
+	<row>
+		<Name>Kinesis</Name>
+		<Type>PSYCHIC</Type>
+		<PP>15</PP>
+		<Effect>Lowers opponent's Accuracy.</Effect>
+		<PID>64,65</PID>
+	</row>
+	<row>
+		<Name>Leech Life</Name>
+		<Type>BUG</Type>
+		<PP>15</PP>
+		<Effect>User recovers half the HP inflicted on opponent.</Effect>
+		<PID>41,42,46,47,48,49</PID>
+	</row>
+	<row>
+		<Name>Leech Seed</Name>
+		<Type>GRASS</Type>
+		<PP>10</PP>
+		<Effect>User steals HP from opponent each turn.</Effect>
+		<PID>1,2,3,102</PID>
+	</row>
+	<row>
+		<Name>Leer</Name>
+		<Type>NORMAL</Type>
+		<PP>30</PP>
+		<Effect>Lowers opponent's Defense.</Effect>
+		<PID>21,22,23,24,32,33,56,57,58,66,67,68,83,90,98,99,104,105,115,116,117,123,125,126,130,136,138,139,140,141,147,148,149</PID>
+	</row>
+	<row>
+		<Name>Lick</Name>
+		<Type>GHOST</Type>
+		<PP>30</PP>
+		<Effect>May paralyze opponent.</Effect>
+		<PID>92,93,94,108,124</PID>
+	</row>
+	<row>
+		<Name>Light Screen</Name>
+		<Type>PSYCHIC</Type>
+		<PP>30</PP>
+		<Effect>Halves damage from Special attacks for 5 turns.</Effect>
+		<PID>25,35,100,101,113,120,122,125,145</PID>
+	</row>
+	<row>
+		<Name>Lovely Kiss</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>Puts opponent to sleep.</Effect>
+		<PID>124</PID>
+	</row>
+	<row>
+		<Name>Low Kick</Name>
+		<Type>FIGHTING</Type>
+		<PP>20</PP>
+		<Effect>The heavier the opponent, the stronger the attack.</Effect>
+		<PID>56,57,66,67,68</PID>
+	</row>
+	<row>
+		<Name>Meditate</Name>
+		<Type>PSYCHIC</Type>
+		<PP>40</PP>
+		<Effect>Raises user's Attack.</Effect>
+		<PID>96,97,106,122</PID>
+	</row>
+	<row>
+		<Name>Mega Drain</Name>
+		<Type>GRASS</Type>
+		<PP>15</PP>
+		<Effect>User recovers half the HP inflicted on opponent.</Effect>
+		<PID>45114140141</PID>
+	</row>
+	<row>
+		<Name>Mega Kick</Name>
+		<Type>NORMAL</Type>
+		<PP>5</PP>
+		<Effect>A powerful kicking attack.</Effect>
+		<PID>106</PID>
+	</row>
+	<row>
+		<Name>Mega Punch</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>A powerful punch thrown very hard.</Effect>
+		<PID>107115151</PID>
+	</row>
+	<row>
+		<Name>Metronome</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>User performs any move in the game at random.</Effect>
+		<PID>35,36,151</PID>
+	</row>
+	<row>
+		<Name>Mimic</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>Copies the opponent's last move.</Effect>
+		<PID>39</PID>
+	</row>
+	<row>
+		<Name>Minimize</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>Sharply raises user's Evasiveness.</Effect>
+		<PID>35,36,88,89,113,120</PID>
+	</row>
+	<row>
+		<Name>Mirror Move</Name>
+		<Type>FLYING</Type>
+		<PP>20</PP>
+		<Effect>User performs the opponent's last move.</Effect>
+		<PID>16,17,18,21,22</PID>
+	</row>
+	<row>
+		<Name>Mist</Name>
+		<Type>ICE</Type>
+		<PP>30</PP>
+		<Effect>User's stats cannot be changed for a period of time.</Effect>
+		<PID>131144150</PID>
+	</row>
+	<row>
+		<Name>Night Shade</Name>
+		<Type>GHOST</Type>
+		<PP>15</PP>
+		<Effect>Inflicts damage equal to user's level.</Effect>
+		<PID>92,93,94</PID>
+	</row>
+	<row>
+		<Name>Pay Day</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>A small amount of money is gained after the battle resolves.</Effect>
+		<PID>52,53</PID>
+	</row>
+	<row>
+		<Name>Peck</Name>
+		<Type>FLYING</Type>
+		<PP>35</PP>
+		<PID>21,22,32,33,34,83,84,85,118,119,144,145,146</PID>
+	</row>
+	<row>
+		<Name>Petal Dance</Name>
+		<Type>GRASS</Type>
+		<PP>10</PP>
+		<Effect>User attacks for 2-3 turns but then becomes confused.</Effect>
+		<PID>3,43,44,45</PID>
+	</row>
+	<row>
+		<Name>Pin Missile</Name>
+		<Type>BUG</Type>
+		<PP>20</PP>
+		<Effect>Hits 2-5 times in one turn.</Effect>
+		<PID>15135</PID>
+	</row>
+	<row>
+		<Name>Poison Gas</Name>
+		<Type>POISON</Type>
+		<PP>40</PP>
+		<Effect>Poisons opponent.</Effect>
+		<PID>88,89,96,97,109,110</PID>
+	</row>
+	<row>
+		<Name>Poison Powder</Name>
+		<Type>POISON</Type>
+		<PP>35</PP>
+		<Effect>Poisons opponent.</Effect>
+		<PID>1,2,3,12,43,44,45,46,47,48,49,69,70,71,102,114</PID>
+	</row>
+	<row>
+		<Name>Poison Sting</Name>
+		<Type>POISON</Type>
+		<PP>35</PP>
+		<Effect>May poison the opponent.</Effect>
+		<PID>13,23,24,27,28,29,30,31,32,33,34,72,73</PID>
+	</row>
+	<row>
+		<Name>Pound</Name>
+		<Type>NORMAL</Type>
+		<PP>35</PP>
+		<PID>35,39,88,89,96,97,113,124,151</PID>
+	</row>
+	<row>
+		<Name>Psybeam</Name>
+		<Type>PSYCHIC</Type>
+		<PP>20</PP>
+		<Effect>May confuse opponent.</Effect>
+		<PID>12,48,49,64,65,96,97,122,137</PID>
+	</row>
+	<row>
+		<Name>Psychic</Name>
+		<Type>PSYCHIC</Type>
+		<PP>10</PP>
+		<Effect>May lower opponent's Special Defense.</Effect>
+		<PID>48,49,64,65,79,80,96,97,102,122,150,151</PID>
+	</row>
+	<row>
+		<Name>Psywave</Name>
+		<Type>PSYCHIC</Type>
+		<PP>15</PP>
+		<Effect>Inflicts damage 50-150% of user's level.</Effect>
+		<PID>122</PID>
+	</row>
+	<row>
+		<Name>Quick Attack</Name>
+		<Type>NORMAL</Type>
+		<PP>30</PP>
+		<Effect>User attacks first.</Effect>
+		<PID>16,17,18,19,20,25,37,38,77,78,84,85,123,125,133,134,135,136</PID>
+	</row>
+	<row>
+		<Name>Rage</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Raises user's Attack when hit.</Effect>
+		<PID>4,5,6,15,57,84,85,95,104,105,115,128,136</PID>
+	</row>
+	<row>
+		<Name>Razor Leaf</Name>
+		<Type>GRASS</Type>
+		<PP>25</PP>
+		<Effect>High critical hit ratio.</Effect>
+		<PID>1,2,3,69,70,71</PID>
+	</row>
+	<row>
+		<Name>Razor Wind</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>Charges on first turn, attacks on second. High critical hit ratio.</Effect>
+		<PID>123</PID>
+	</row>
+	<row>
+		<Name>Recover</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>User recovers 50% of its max HP.</Effect>
+		<PID>64,65,120,121,137,150</PID>
+	</row>
+	<row>
+		<Name>Reflect</Name>
+		<Type>PSYCHIC</Type>
+		<PP>20</PP>
+		<Effect>Halves damage from Physical attacks for 5 turns.</Effect>
+		<PID>64,65,102,122,144</PID>
+	</row>
+	<row>
+		<Name>Rest</Name>
+		<Type>PSYCHIC</Type>
+		<PP>10</PP>
+		<Effect>User sleeps for 2 turns, but user is fully healed.</Effect>
+		<PID>39,86,87,143,128</PID>
+	</row>
+	<row>
+		<Name>Roar</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>In battles, the opponent switches. In the wild, the Pokémon runs.</Effect>
+		<PID>37,38,58,59,142</PID>
+	</row>
+	<row>
+		<Name>Rock Slide</Name>
+		<Type>ROCK</Type>
+		<PP>10</PP>
+		<Effect>May cause flinching.</Effect>
+		<PID>95142</PID>
+	</row>
+	<row>
+		<Name>Rock Throw</Name>
+		<Type>ROCK</Type>
+		<PP>15</PP>
+		<Effect>Drops rocks on the enemy.</Effect>
+		<PID>74,75,76,95</PID>
+	</row>
+	<row>
+		<Name>Rolling Kick</Name>
+		<Type>FIGHTING</Type>
+		<PP>15</PP>
+		<Effect>May cause flinching.</Effect>
+		<PID>106</PID>
+	</row>
+	<row>
+		<Name>Sand Attack</Name>
+		<Type>GROUND</Type>
+		<PP>15</PP>
+		<Effect>Lowers opponent's Accuracy.</Effect>
+		<PID>16,17,28,37,38,50,51,83,133,134,135,136,140,141</PID>
+	</row>
+	<row>
+		<Name>Scratch</Name>
+		<Type>NORMAL</Type>
+		<PP>35</PP>
+		<Effect>Scratches with sharp claws.</Effect>
+		<PID>4,5,6,27,28,29,30,31,46,47,50,51,52,53,54,55,56,57,140,141</PID>
+	</row>
+	<row>
+		<Name>Screech</Name>
+		<Type>NORMAL</Type>
+		<PP>40</PP>
+		<Effect>Sharply lowers opponent's Defense.</Effect>
+		<PID>23,24,42,52,53,54,55,56,57,72,73,81,82,88,89,95,100,101,108,125</PID>
+	</row>
+	<row>
+		<Name>Seismic Toss</Name>
+		<Type>FIGHTING</Type>
+		<PP>20</PP>
+		<Effect>Inflicts damage equal to user's level.</Effect>
+		<PID>56,57,66,67,68,127</PID>
+	</row>
+	<row>
+		<Name>Self-Destruct</Name>
+		<Type>NORMAL</Type>
+		<PP>5</PP>
+		<Effect>User faints.</Effect>
+		<PID>74,75,76,100,101,109,110</PID>
+	</row>
+	<row>
+		<Name>Sharpen</Name>
+		<Type>NORMAL</Type>
+		<PP>30</PP>
+		<Effect>Raises user's Attack.</Effect>
+		<PID>137</PID>
+	</row>
+	<row>
+		<Name>Sing</Name>
+		<Type>NORMAL</Type>
+		<PP>15</PP>
+		<Effect>Puts opponent to sleep.</Effect>
+		<PID>35,36,39,40,113,131</PID>
+	</row>
+	<row>
+		<Name>Skull Bash</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>Raises Defense on first turn, attacks on second.</Effect>
+		<PID>7,8,9</PID>
+	</row>
+	<row>
+		<Name>Sky Attack</Name>
+		<Type>FLYING</Type>
+		<PP>5</PP>
+		<Effect>Charges on first turn, attacks on second. May cause flinching.</Effect>
+		<PID>146</PID>
+	</row>
+	<row>
+		<Name>Slam</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Slams the foe with a tail, vine, etc.</Effect>
+		<PID>25,69,70,95,98,99,108,114</PID>
+	</row>
+	<row>
+		<Name>Slash</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>High critical hit ratio.</Effect>
+		<PID>4,5,6,27,28,46,47,50,51,52,53,83,123,127,140,141</PID>
+	</row>
+	<row>
+		<Name>Sleep Powder</Name>
+		<Type>GRASS</Type>
+		<PP>15</PP>
+		<Effect>Puts opponent to sleep.</Effect>
+		<PID>1,2,3,12,43,44,45,48,49,69,70,71,102,114</PID>
+	</row>
+	<row>
+		<Name>Sludge</Name>
+		<Type>POISON</Type>
+		<PP>20</PP>
+		<Effect>May poison opponent.</Effect>
+		<PID>88,89,109,110</PID>
+	</row>
+	<row>
+		<Name>Smog</Name>
+		<Type>POISON</Type>
+		<PP>20</PP>
+		<Effect>May poison opponent.</Effect>
+		<PID>109110126136</PID>
+	</row>
+	<row>
+		<Name>Smokescreen</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Lowers opponent's Accuracy.</Effect>
+		<PID>109110116117126</PID>
+	</row>
+	<row>
+		<Name>Soft-Boiled</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>User recovers 50% of its max HP.</Effect>
+		<PID>NULL</PID>
+	</row>
+	<row>
+		<Name>Solar Beam</Name>
+		<Type>GRASS</Type>
+		<PP>10</PP>
+		<Effect>Charges on first turn, attacks on second.</Effect>
+		<PID>1,2,3,43,44,102</PID>
+	</row>
+	<row>
+		<Name>Sonic Boom</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Always inflicts 20 HP.</Effect>
+		<PID>81,82,100,101</PID>
+	</row>
+	<row>
+		<Name>Spike Cannon</Name>
+		<Type>NORMAL</Type>
+		<PP>15</PP>
+		<Effect>Hits 2-5 times in one turn.</Effect>
+		<PID>91138139</PID>
+	</row>
+	<row>
+		<Name>Splash</Name>
+		<Type>NORMAL</Type>
+		<PP>40</PP>
+		<Effect>Doesn't do ANYTHING.</Effect>
+		<PID>129</PID>
+	</row>
+	<row>
+		<Name>Spore</Name>
+		<Type>GRASS</Type>
+		<PP>15</PP>
+		<Effect>Puts opponent to sleep.</Effect>
+		<PID>46,47</PID>
+	</row>
+	<row>
+		<Name>Stomp</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>May cause flinching.</Effect>
+		<PID>77,78,98,99,103,108,111,112,128</PID>
+	</row>
+	<row>
+		<Name>Strength</Name>
+		<Type>NORMAL</Type>
+		<PP>15</PP>
+		<Effect>A powerful physical attack.</Effect>
+		<PID>NULL</PID>
+	</row>
+	<row>
+		<Name>String Shot</Name>
+		<Type>BUG</Type>
+		<PP>40</PP>
+		<Effect>Lowers opponent's Speed.</Effect>
+		<PID>10,13</PID>
+	</row>
+	<row>
+		<Name>Struggle</Name>
+		<Type>NORMAL</Type>
+		<PP>-</PP>
+		<Effect>Only usable when all PP are gone. Hurts the user.</Effect>
+		<PID>NULL</PID>
+	</row>
+	<row>
+		<Name>Stun Spore</Name>
+		<Type>GRASS</Type>
+		<PP>30</PP>
+		<Effect>Paralyzes opponent.</Effect>
+		<PID>12,43,44,45,46,47,48,49,69,70,102,114</PID>
+	</row>
+	<row>
+		<Name>Submission</Name>
+		<Type>FIGHTING</Type>
+		<PP>25</PP>
+		<Effect>User receives recoil damage.</Effect>
+		<PID>66,67,68</PID>
+	</row>
+	<row>
+		<Name>Substitute</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>Uses HP to creates a decoy that takes hits.</Effect>
+		<PID>122</PID>
+	</row>
+	<row>
+		<Name>Super Fang</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>Always takes off half of the opponent's HP.</Effect>
+		<PID>19,20</PID>
+	</row>
+	<row>
+		<Name>Supersonic</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Confuses opponent.</Effect>
+		<PID>12,41,42,48,49,72,73,81,82,90,91,108,118,119,142</PID>
+	</row>
+	<row>
+		<Name>Surf</Name>
+		<Type>WATER</Type>
+		<PP>15</PP>
+		<Effect>Hits all adjacent Pokémon.</Effect>
+		<PID>NULL</PID>
+	</row>
+	<row>
+		<Name>Swift</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Ignores Accuracy and Evasiveness.</Effect>
+		<PID>25,27,28,81,82,100,101,120,150</PID>
+	</row>
+	<row>
+		<Name>Swords Dance</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Sharply raises user's Attack.</Effect>
+		<PID>83123127</PID>
+	</row>
+	<row>
+		<Name>Tackle</Name>
+		<Type>NORMAL</Type>
+		<PP>35</PP>
+		<Effect>A full-body charge attack.</Effect>
+		<PID>1,2,3,7,8,9,10,19,20,29,30,31,32,33,34,48,49,74,75,76,81,82,90,91,95,100,101,109,110,120,121,128,129,130,133,134,135,136,137</PID>
+	</row>
+	<row>
+		<Name>Tail Whip</Name>
+		<Type>NORMAL</Type>
+		<PP>30</PP>
+		<Effect>Lowers opponent's Defense.</Effect>
+		<PID>7,8,9,19,20,25,29,30,31,37,38,54,55,77,78,104,111,112,113,115,118,119,128,133,134,135,136,172</PID>
+	</row>
+	<row>
+		<Name>Take Down</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>User receives recoil damage.</Effect>
+		<PID>58,59,77,78,86,87,111,112,128,133,142</PID>
+	</row>
+	<row>
+		<Name>Teleport</Name>
+		<Type>PSYCHIC</Type>
+		<PP>20</PP>
+		<Effect>Allows user to switch out. In the wild, the battle ends.</Effect>
+		<PID>63,64,65</PID>
+	</row>
+	<row>
+		<Name>Thrash</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>User attacks for 2-3 turns but then becomes confused.</Effect>
+		<PID>34,56,57,104,105,124</PID>
+	</row>
+	<row>
+		<Name>Thunder</Name>
+		<Type>ELECTRIC</Type>
+		<PP>10</PP>
+		<Effect>May paralyze opponent.</Effect>
+		<PID>25125135145</PID>
+	</row>
+	<row>
+		<Name>Thunder Punch</Name>
+		<Type>ELECTRIC</Type>
+		<PP>15</PP>
+		<Effect>May paralyze opponent.</Effect>
+		<PID>107125</PID>
+	</row>
+	<row>
+		<Name>Thunder Shock</Name>
+		<Type>ELECTRIC</Type>
+		<PP>30</PP>
+		<Effect>May paralyze opponent.</Effect>
+		<PID>25,26,81,82,125,135,145</PID>
+	</row>
+	<row>
+		<Name>Thunder Wave</Name>
+		<Type>ELECTRIC</Type>
+		<PP>20</PP>
+		<Effect>Paralyzes opponent.</Effect>
+		<PID>25,26,81,82,135,147,148,149</PID>
+	</row>
+	<row>
+		<Name>Thunderbolt</Name>
+		<Type>ELECTRIC</Type>
+		<PP>15</PP>
+		<Effect>May paralyze opponent.</Effect>
+		<PID>25</PID>
+	</row>
+	<row>
+		<Name>Toxic</Name>
+		<Type>POISON</Type>
+		<PP>10</PP>
+		<Effect>Badly poisons opponent.</Effect>
+	</row>
+	<row>
+		<Name>Transform</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>User takes on the form and attacks of the opponent.</Effect>
+		<PID>132151</PID>
+	</row>
+	<row>
+		<Name>Tri Attack</Name>
+		<Type>NORMAL</Type>
+		<PP>10</PP>
+		<Effect>May paralyze, burn or freeze opponent.</Effect>
+		<PID>84,84,137</PID>
+	</row>
+	<row>
+		<Name>Twineedle</Name>
+		<Type>BUG</Type>
+		<PP>20</PP>
+		<Effect>Hits twice in one turn. May poison opponent.</Effect>
+		<PID>15</PID>
+	</row>
+	<row>
+		<Name>Vice Grip</Name>
+		<Type>NORMAL</Type>
+		<PP>30</PP>
+		<Effect>Grips with powerful pincers.</Effect>
+		<PID>98,99,127</PID>
+	</row>
+	<row>
+		<Name>Vine Whip</Name>
+		<Type>GRASS</Type>
+		<PP>25</PP>
+		<Effect>Whips the foe with slender vines.</Effect>
+		<PID>1,2,3,69,70,114</PID>
+	</row>
+	<row>
+		<Name>Water Gun</Name>
+		<Type>WATER</Type>
+		<PP>25</PP>
+		<Effect>Squirts water to attack.</Effect>
+		<PID>7,8,9,60,61,62,72,73,79,80,116,117,120,121,131,134,138,139</PID>
+	</row>
+	<row>
+		<Name>Waterfall</Name>
+		<Type>WATER</Type>
+		<PP>15</PP>
+		<Effect>May cause flinching.</Effect>
+		<PID>118119</PID>
+	</row>
+	<row>
+		<Name>Whirlwind</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>In battles, the opponent switches. In the wild, the Pokémon runs.</Effect>
+		<PID>12,16,17,18</PID>
+	</row>
+	<row>
+		<Name>Wing Attack</Name>
+		<Type>FLYING</Type>
+		<PP>35</PP>
+		<Effect>Strikes the target with wings.</Effect>
+		<PID>16,17,18,41,42,123,142</PID>
+	</row>
+	<row>
+		<Name>Withdraw</Name>
+		<Type>WATER</Type>
+		<PP>40</PP>
+		<Effect>Raises user's Defense.</Effect>
+		<PID>7,8,9,80,90,91,138,139</PID>
+	</row>
+	<row>
+		<Name>Wrap</Name>
+		<Type>NORMAL</Type>
+		<PP>20</PP>
+		<Effect>Traps opponent, damaging them for 4-5 turns.</Effect>
+		<PID>23,24,69,70,71,72,73,108,147,148,149</PID>
+	</row>
+</data-set>

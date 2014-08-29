@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<TID>Rival_1</TID>
+		<LName>Prof. Oak's Lab</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Rick</TID>
+		<LName>Viridian Forest</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Doug</TID>
+		<LName>Viridian Forest</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Anthony</TID>
+		<LName>Viridian Forest</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Charlie</TID>
+		<LName>Viridian Forest</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Sammy</TID>
+		<LName>Viridian Forest</LName>
+	</row>
+	<row>
+		<TID>Camper Liam</TID>
+		<LName>Pewter City Gym</LName>
+	</row>
+	<row>
+		<TID>Leader Brock</TID>
+		<LName>Pewter City Gym</LName>
+	</row>
+	<row>
+		<TID>Lass Janice</TID>
+		<LName>Route 3</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Colton</TID>
+		<LName>Route 3</LName>
+	</row>
+	<row>
+		<TID>Youngster Ben</TID>
+		<LName>Route 3</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Greg</TID>
+		<LName>Route 3</LName>
+	</row>
+	<row>
+		<TID>Lass Sally</TID>
+		<LName>Route 3</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher James</TID>
+		<LName>Route 3</LName>
+	</row>
+	<row>
+		<TID>Youngster Calvin</TID>
+		<LName>Route 3</LName>
+	</row>
+	<row>
+		<TID>Lass Robin</TID>
+		<LName>Route 3</LName>
+	</row>
+	<row>
+		<TID>Lass Iris</TID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<TID>BUg Catcher Kent</TID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<TID>Super Nerd Jovan</TID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Robby</TID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<TID>Lass Miriam</TID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_1</TID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_2</TID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<TID>Youngster Josh</TID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<TID>Hiker Marcos</TID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_3</TID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_4</TID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<TID>Super Nerd Miguel</TID>
+		<LName>Mt. Moon</LName>
+	</row>
+	<row>
+		<TID>Lass Crissy</TID>
+		<LName>Route 4</LName>
+	</row>
+	<row>
+		<TID>Rival_2</TID>
+		<LName>Route 24</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Cale</TID>
+		<LName>Route 24</LName>
+	</row>
+	<row>
+		<TID>Lass Ali</TID>
+		<LName>Route 24</LName>
+	</row>
+	<row>
+		<TID>Youngster Timmy</TID>
+		<LName>Route 24</LName>
+	</row>
+	<row>
+		<TID>Lass Reli</TID>
+		<LName>Route 24</LName>
+	</row>
+	<row>
+		<TID>Camper Ethan</TID>
+		<LName>Route 24</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_5</TID>
+		<LName>Route 24</LName>
+	</row>
+	<row>
+		<TID>Camper Shane</TID>
+		<LName>Route 24</LName>
+	</row>
+	<row>
+		<TID>Hiker Franklin</TID>
+		<LName>Route 25</LName>
+	</row>
+	<row>
+		<TID>Hiker Wayne</TID>
+		<LName>Route 25</LName>
+	</row>
+	<row>
+		<TID>Youngster Joey</TID>
+		<LName>Route 25</LName>
+	</row>
+	<row>
+		<TID>Youngester Dan</TID>
+		<LName>Route 25</LName>
+	</row>
+	<row>
+		<TID>Picnicker Kelsey</TID>
+		<LName>Route 25</LName>
+	</row>
+	<row>
+		<TID>Hiker Nob</TID>
+		<LName>Route 25</LName>
+	</row>
+	<row>
+		<TID>Camper Flint</TID>
+		<LName>Route 25</LName>
+	</row>
+	<row>
+		<TID>Youngster Chad</TID>
+		<LName>Route 25</LName>
+	</row>
+	<row>
+		<TID>Lass Haley</TID>
+		<LName>Route 25</LName>
+	</row>
+	<row>
+		<TID>Swimmer Luis</TID>
+		<LName>Cerulean City Gym</LName>
+	</row>
+	<row>
+		<TID>Picnicker Diana</TID>
+		<LName>Cerulean City Gym</LName>
+	</row>
+	<row>
+		<TID>Leader Misty</TID>
+		<LName>Cerulean City Gym</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_6</TID>
+		<LName>Cerulean City</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Keigo</TID>
+		<LName>Route 6</LName>
+	</row>
+	<row>
+		<TID>Camper Ricky</TID>
+		<LName>Route 6</LName>
+	</row>
+	<row>
+		<TID>Picnicker Nancy</TID>
+		<LName>Route 6</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Elijah</TID>
+		<LName>Route 6</LName>
+	</row>
+	<row>
+		<TID>Picnicker Isabelle</TID>
+		<LName>Route 6</LName>
+	</row>
+	<row>
+		<TID>Camper Jeff</TID>
+		<LName>Route 6</LName>
+	</row>
+	<row>
+		<TID>Youngster Eddie</TID>
+		<LName>Route 11</LName>
+	</row>
+	<row>
+		<TID>Gamer Hugo</TID>
+		<LName>Route 11</LName>
+	</row>
+	<row>
+		<TID>Engineer Bernie</TID>
+		<LName>Route 11</LName>
+	</row>
+	<row>
+		<TID>Gamer Jasper</TID>
+		<LName>Route 11</LName>
+	</row>
+	<row>
+		<TID>Youngster Dave</TID>
+		<LName>Route 11</LName>
+	</row>
+	<row>
+		<TID>Youngster Dillon</TID>
+		<LName>Route 11</LName>
+	</row>
+	<row>
+		<TID>Engineer Braxton</TID>
+		<LName>Route 11</LName>
+	</row>
+	<row>
+		<TID>Youngster Yasu</TID>
+		<LName>Route 11</LName>
+	</row>
+	<row>
+		<TID>Gamer Darian</TID>
+		<LName>Route 11</LName>
+	</row>
+	<row>
+		<TID>Gamer Dirk</TID>
+		<LName>Route 11</LName>
+	</row>
+	<row>
+		<TID>Fisherman Barny</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Sailer Phillip</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Sailer Huey</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Sailor Dylan</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Sailor Duncan</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Sailor leonard</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Gentleman Thomas</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Gentleman Arthur</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Lass Ann</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Youngster Tyler</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Sailor Trevor</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Sailor Edmond</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Fisherman Dale</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Gentleman Brooks</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Lass Dawn</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Gentleman Lamar</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Rival_3</TID>
+		<LName>S. S. Anne</LName>
+	</row>
+	<row>
+		<TID>Sailor Dwayne</TID>
+		<LName>Vermillion City Gym</LName>
+	</row>
+	<row>
+		<TID>Engineer Baily</TID>
+		<LName>Vermillion City Gym</LName>
+	</row>
+	<row>
+		<TID>Gentleman Tucker</TID>
+		<LName>Vermillion City Gym</LName>
+	</row>
+	<row>
+		<TID>Leader Lt. Surge</TID>
+		<LName>Vermillion City Gym</LName>
+	</row>
+	<row>
+		<TID>Picnicker Alicia</TID>
+		<LName>Route 9</LName>
+	</row>
+	<row>
+		<TID>Hiker Jeremy</TID>
+		<LName>Route 9</LName>
+	</row>
+	<row>
+		<TID>Camper Chris</TID>
+		<LName>Route 9</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Brent</TID>
+		<LName>Route 9</LName>
+	</row>
+	<row>
+		<TID>Bug Catcher Conner</TID>
+		<LName>Route 9</LName>
+	</row>
+	<row>
+		<TID>Bug Camper Drew</TID>
+		<LName>Route 9</LName>
+	</row>
+	<row>
+		<TID>Hiker Alan</TID>
+		<LName>Route 9</LName>
+	</row>
+	<row>
+		<TID>Hiker Brice</TID>
+		<LName>Route 9</LName>
+	</row>
+	<row>
+		<TID>Picnicker Caitlin</TID>
+		<LName>Route 9</LName>
+	</row>
+	<row>
+		<TID>Picnicker Heidi</TID>
+		<LName>Route 10</LName>
+	</row>
+	<row>
+		<TID>Picnicker Carol</TID>
+		<LName>Route 10</LName>
+	</row>
+	<row>
+		<TID>Hiker Clark</TID>
+		<LName>Route 10</LName>
+	</row>
+	<row>
+		<TID>Hiker Trent</TID>
+		<LName>Route 10</LName>
+	</row>
+	<row>
+		<TID>Pokemaniac Herman</TID>
+		<LName>Route 10</LName>
+	</row>
+	<row>
+		<TID>Pokemaniac Mark</TID>
+		<LName>Route 10</LName>
+	</row>
+	<row>
+		<TID>Pokemaniac Ashton</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Pokemaniac Winston</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Picnicker Martha</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Pokemaniac Steve</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Hiker Allen</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Hiker Eric</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Hiker Lenny</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Hiker Oliver</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Hiker Lucas</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Picnicker Sofia</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Hiker Dudley</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Pokemaniac Cooper</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Picnicker Leah</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Picnicker Arianna</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Picnicker Dana</TID>
+		<LName>Rock Tunnel</LName>
+	</row>
+	<row>
+		<TID>Lass Julia</TID>
+		<LName>Route 8</LName>
+	</row>
+	<row>
+		<TID>Gamer Rich</TID>
+		<LName>Route 8</LName>
+	</row>
+	<row>
+		<TID>Super Nerd Glenn</TID>
+		<LName>Route 8</LName>
+	</row>
+	<row>
+		<TID>Lass Megan</TID>
+		<LName>Route 8</LName>
+	</row>
+	<row>
+		<TID>Lass Andrea</TID>
+		<LName>Route 8</LName>
+	</row>
+	<row>
+		<TID>Super Nerd Leslie</TID>
+		<LName>Route 8</LName>
+	</row>
+	<row>
+		<TID>Lass Paige</TID>
+		<LName>Route 8</LName>
+	</row>
+	<row>
+		<TID>Biker Jaren</TID>
+		<LName>Route 8</LName>
+	</row>
+	<row>
+		<TID>Biker Ricardo</TID>
+		<LName>Route 8</LName>
+	</row>
+	<row>
+		<TID>Super Nerd Aiden</TID>
+		<LName>Route 8</LName>
+	</row>
+	<row>
+		<TID>Gamer Stan</TID>
+		<LName>Route 8</LName>
+	</row>
+	<row>
+		<TID>Lass Kay</TID>
+		<LName>Celadon City Gym</LName>
+	</row>
+	<row>
+		<TID>Beauty Bridget</TID>
+		<LName>Celadon City Gym</LName>
+	</row>
+	<row>
+		<TID>Picnicker Tina</TID>
+		<LName>Celadon City Gym</LName>
+	</row>
+	<row>
+		<TID>Beauty Tamia</TID>
+		<LName>Celadon City Gym</LName>
+	</row>
+	<row>
+		<TID>Beauty Lori</TID>
+		<LName>Celadon City Gym</LName>
+	</row>
+	<row>
+		<TID>Lass Lisa</TID>
+		<LName>Celadon City Gym</LName>
+	</row>
+	<row>
+		<TID>Cooltrainer Mary</TID>
+		<LName>Celadon City Gym</LName>
+	</row>
+	<row>
+		<TID>Leader Erika</TID>
+		<LName>Celadon City Gym</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_7</TID>
+		<LName>Casino</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_8</TID>
+		<LName>Casino</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_9</TID>
+		<LName>Casino</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_10</TID>
+		<LName>Casino</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_11</TID>
+		<LName>Casino</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_12</TID>
+		<LName>Casino</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_13</TID>
+		<LName>Casino</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_14</TID>
+		<LName>Casino</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_15</TID>
+		<LName>Casino</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_16</TID>
+		<LName>Casino</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_17</TID>
+		<LName>Casino</LName>
+	</row>
+	<row>
+		<TID>Boss Giovanni_1</TID>
+		<LName>Casino</LName>
+	</row>
+	<row>
+		<TID>Rival_6</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler Hope</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler Patricia</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler Carly</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler Laurel</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler Jody</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler Paula</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler Ruth</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler Tammy</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler Karina</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler janae</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler Angelica</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler Jennifer</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Channeler Emilia</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_18</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_19</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_20</TID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<TID>Biker Lao</TID>
+		<LName>Route 16</LName>
+	</row>
+	<row>
+		<TID>Cue Ball Luke</TID>
+		<LName>Route 16</LName>
+	</row>
+	<row>
+		<TID>Cue Ball Koji</TID>
+		<LName>Route 16</LName>
+	</row>
+	<row>
+		<TID>Biker Hideo</TID>
+		<LName>Route 16</LName>
+	</row>
+	<row>
+		<TID>Biker Ruben</TID>
+		<LName>Route 16</LName>
+	</row>
+	<row>
+		<TID>Cue Ball Camron</TID>
+		<LName>Route 16</LName>
+	</row>
+	<row>
+		<TID>Cue Ball Isaiah</TID>
+		<LName>Route 17</LName>
+	</row>
+	<row>
+		<TID>Biker Virgil</TID>
+		<LName>Route 17</LName>
+	</row>
+	<row>
+		<TID>Cue Ball Raul</TID>
+		<LName>Route 17</LName>
+	</row>
+	<row>
+		<TID>Biker Billy</TID>
+		<LName>Route 17</LName>
+	</row>
+	<row>
+		<TID>Biker Nikolas</TID>
+		<LName>Route 17</LName>
+	</row>
+	<row>
+		<TID>Cue Ball Zeek</TID>
+		<LName>Route 17</LName>
+	</row>
+	<row>
+		<TID>Cue Ball Corey</TID>
+		<LName>Route 17</LName>
+	</row>
+	<row>
+		<TID>Biker Jaxon</TID>
+		<LName>Route 17</LName>
+	</row>
+	<row>
+		<TID>Cue Ball Jamal</TID>
+		<LName>Route 17</LName>
+	</row>
+	<row>
+		<TID>Biker William</TID>
+		<LName>Route 17</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Jacob</TID>
+		<LName>Route 18</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Wilton</TID>
+		<LName>Route 18</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Ramiro</TID>
+		<LName>Route 18</LName>
+	</row>
+	<row>
+		<TID>Juggler Nate</TID>
+		<LName>Fuscia City Gym</LName>
+	</row>
+	<row>
+		<TID>Juggler Kayden</TID>
+		<LName>Fuscia City Gym</LName>
+	</row>
+	<row>
+		<TID>Juggler Kirk</TID>
+		<LName>Fuscia City Gym</LName>
+	</row>
+	<row>
+		<TID>Tamer Edgar</TID>
+		<LName>Fuscia City Gym</LName>
+	</row>
+	<row>
+		<TID>Tamer Phil</TID>
+		<LName>Fuscia City Gym</LName>
+	</row>
+	<row>
+		<TID>Juggler Shawn</TID>
+		<LName>Fuscia City Gym</LName>
+	</row>
+	<row>
+		<TID>Leader Koga</TID>
+		<LName>Fuscia City Gym</LName>
+	</row>
+	<row>
+		<TID>Black Belt Hitoshi</TID>
+		<LName>Fighting Dojo</LName>
+	</row>
+	<row>
+		<TID>Black Belt Hideki</TID>
+		<LName>Fighting Dojo</LName>
+	</row>
+	<row>
+		<TID>Black Belt Aaron</TID>
+		<LName>Fighting Dojo</LName>
+	</row>
+	<row>
+		<TID>Black Belt Mike</TID>
+		<LName>Fighting Dojo</LName>
+	</row>
+	<row>
+		<TID>Black Belt Koichi</TID>
+		<LName>Fighting Dojo</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_21</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_22</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_23</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_24</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_25</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_26</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_27</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_28</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_29</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_30</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_31</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_32</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_33</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_34</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_35</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_36</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_37</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_38</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Team Rocket Grunt_39</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Scientist Jerry</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Scientist Jose</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Scientist Rodney</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Scientist Beau</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Juggler Dalton</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Scientist Taylor</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Scientist Joshua</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Rival_4</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Scientist Parker</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Scientist Ed</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Scientist Travis</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Boss Giovanni_2</TID>
+		<LName>Silph Co. Building</LName>
+	</row>
+	<row>
+		<TID>Psychic Cameron</TID>
+		<LName>Saffron City Gym</LName>
+	</row>
+	<row>
+		<TID>Channeler Tasha</TID>
+		<LName>Saffron City Gym</LName>
+	</row>
+	<row>
+		<TID>Psychic Johan</TID>
+		<LName>Saffron City Gym</LName>
+	</row>
+	<row>
+		<TID>Psychic Tyron</TID>
+		<LName>Saffron City Gym</LName>
+	</row>
+	<row>
+		<TID>Channeler Stacy</TID>
+		<LName>Saffron City Gym</LName>
+	</row>
+	<row>
+		<TID>Channeler Amanda</TID>
+		<LName>Saffron City Gym</LName>
+	</row>
+	<row>
+		<TID>Psychic Preston</TID>
+		<LName>Saffron City Gym</LName>
+	</row>
+	<row>
+		<TID>Leader Sabrina</TID>
+		<LName>Saffron City Gym</LName>
+	</row>
+	<row>
+		<TID>Fisherman Ned</TID>
+		<LName>Route 12</LName>
+	</row>
+	<row>
+		<TID>Fisherman Chip</TID>
+		<LName>Route 12</LName>
+	</row>
+	<row>
+		<TID>Fisherman Hank</TID>
+		<LName>Route 12</LName>
+	</row>
+	<row>
+		<TID>Fisherman Elliot</TID>
+		<LName>Route 12</LName>
+	</row>
+	<row>
+		<TID>Rocker Luca</TID>
+		<LName>Route 12</LName>
+	</row>
+	<row>
+		<TID>Camper Justin</TID>
+		<LName>Route 12</LName>
+	</row>
+	<row>
+		<TID>Fisherman Andrew</TID>
+		<LName>Route 12</LName>
+	</row>
+	<row>
+		<TID>Picnicker Alma</TID>
+		<LName>Route 13</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Sebastian</TID>
+		<LName>Route 13</LName>
+	</row>
+	<row>
+		<TID>Picnicker Susie</TID>
+		<LName>Route 13</LName>
+	</row>
+	<row>
+		<TID>Beauty Lola</TID>
+		<LName>Route 13</LName>
+	</row>
+	<row>
+		<TID>Beauty Sheila</TID>
+		<LName>Route 13</LName>
+	</row>
+	<row>
+		<TID>Picnicker Valerie</TID>
+		<LName>Route 13</LName>
+	</row>
+	<row>
+		<TID>Picnicker Gwen</TID>
+		<LName>Route 13</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Perry</TID>
+		<LName>Route 13</LName>
+	</row>
+	<row>
+		<TID>Biker Jared</TID>
+		<LName>Route 13</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Robert</TID>
+		<LName>Route 13</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Carter</TID>
+		<LName>Route 14</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Mitch</TID>
+		<LName>Route 14</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Marlon</TID>
+		<LName>Route 14</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Beck</TID>
+		<LName>Route 14</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Donald</TID>
+		<LName>Route 14</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Benny</TID>
+		<LName>Route 14</LName>
+	</row>
+	<row>
+		<TID>Biker Geralk</TID>
+		<LName>Route 14</LName>
+	</row>
+	<row>
+		<TID>Biker Malik</TID>
+		<LName>Route 14</LName>
+	</row>
+	<row>
+		<TID>Biker Isaac</TID>
+		<LName>Route 14</LName>
+	</row>
+	<row>
+		<TID>Biker Lukas</TID>
+		<LName>Route 14</LName>
+	</row>
+	<row>
+		<TID>Picnicker Becky</TID>
+		<LName>Route 15</LName>
+	</row>
+	<row>
+		<TID>Picnicker Celia</TID>
+		<LName>Route 15</LName>
+	</row>
+	<row>
+		<TID>Biker Ernest</TID>
+		<LName>Route 15</LName>
+	</row>
+	<row>
+		<TID>Biker Alex</TID>
+		<LName>Route 15</LName>
+	</row>
+	<row>
+		<TID>Beauty Grace</TID>
+		<LName>Route 15</LName>
+	</row>
+	<row>
+		<TID>Beauty Olivia</TID>
+		<LName>Route 15</LName>
+	</row>
+	<row>
+		<TID>Picnicker Kindra</TID>
+		<LName>Route 15</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Chester</TID>
+		<LName>Route 15</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Edwin</TID>
+		<LName>Route 15</LName>
+	</row>
+	<row>
+		<TID>Picnicker Yazmin</TID>
+		<LName>Route 15</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) Richard</TID>
+		<LName>Route 19</LName>
+	</row>
+	<row>
+		<TID>Swimer (M) Reece</TID>
+		<LName>Route 19</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) Tony</TID>
+		<LName>Route 19</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) David</TID>
+		<LName>Route 19</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) Douglas</TID>
+		<LName>Route 19</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) Matthew</TID>
+		<LName>Route 19</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) Axle</TID>
+		<LName>Route 19</LName>
+	</row>
+	<row>
+		<TID>Swimmer (F) Alice</TID>
+		<LName>Route 19</LName>
+	</row>
+	<row>
+		<TID>Swimmer (F) Connie</TID>
+		<LName>Route 19</LName>
+	</row>
+	<row>
+		<TID>Swimmer (F) Anya</TID>
+		<LName>Route 19</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) Barry</TID>
+		<LName>Route 20</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) Darrin</TID>
+		<LName>Route 20</LName>
+	</row>
+	<row>
+		<TID>Swimmer (F) Shirley</TID>
+		<LName>Route 20</LName>
+	</row>
+	<row>
+		<TID>Swimmer (F) Tiffany</TID>
+		<LName>Route 20</LName>
+	</row>
+	<row>
+		<TID>Picnicker Irene</TID>
+		<LName>Route 20</LName>
+	</row>
+	<row>
+		<TID>Bird Keeper Roger</TID>
+		<LName>Route 20</LName>
+	</row>
+	<row>
+		<TID>Swimmer (F) Nora</TID>
+		<LName>Route 20</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) Dean</TID>
+		<LName>Route 20</LName>
+	</row>
+	<row>
+		<TID>Picnicker Missy</TID>
+		<LName>Route 20</LName>
+	</row>
+	<row>
+		<TID>Swimmer (F) Melissa</TID>
+		<LName>Route 20</LName>
+	</row>
+	<row>
+		<TID>Youngster Johnson</TID>
+		<LName>Cinnibar Island Mansion</LName>
+	</row>
+	<row>
+		<TID>Scientist Ted</TID>
+		<LName>Cinnibar Island Mansion</LName>
+	</row>
+	<row>
+		<TID>Burglar Arnie</TID>
+		<LName>Cinnibar Island Mansion</LName>
+	</row>
+	<row>
+		<TID>Burglar Simon</TID>
+		<LName>Cinnibar Island Mansion</LName>
+	</row>
+	<row>
+		<TID>Scientist Braydon</TID>
+		<LName>Cinnibar Island Mansion</LName>
+	</row>
+	<row>
+		<TID>Burglar Lewis</TID>
+		<LName>Cinnibar Island Mansion</LName>
+	</row>
+	<row>
+		<TID>Scientist Ivan</TID>
+		<LName>Cinnibar Island Mansion</LName>
+	</row>
+	<row>
+		<TID>Burglar Quinn</TID>
+		<LName>Cinnabar Island Gym</LName>
+	</row>
+	<row>
+		<TID>Super Nerd Erik</TID>
+		<LName>Cinnabar Island Gym</LName>
+	</row>
+	<row>
+		<TID>Super Nerd Avery</TID>
+		<LName>Cinnabar Island Gym</LName>
+	</row>
+	<row>
+		<TID>Burglar Ramon</TID>
+		<LName>Cinnabar Island Gym</LName>
+	</row>
+	<row>
+		<TID>Super Nerd Derek</TID>
+		<LName>Cinnabar Island Gym</LName>
+	</row>
+	<row>
+		<TID>Burglar Dusty</TID>
+		<LName>Cinnabar Island Gym</LName>
+	</row>
+	<row>
+		<TID>Super Nerd Zac</TID>
+		<LName>Cinnabar Island Gym</LName>
+	</row>
+	<row>
+		<TID>Leader Blaine</TID>
+		<LName>Cinnabar Island Gym</LName>
+	</row>
+	<row>
+		<TID>Fisherman Wade</TID>
+		<LName>Route 21</LName>
+	</row>
+	<row>
+		<TID>Fisherman Ronald</TID>
+		<LName>Route 21</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) Spencer</TID>
+		<LName>Route 21</LName>
+	</row>
+	<row>
+		<TID>Fisherman Claude</TID>
+		<LName>Route 21</LName>
+	</row>
+	<row>
+		<TID>Fisherman Nolan</TID>
+		<LName>Route 21</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) Jack</TID>
+		<LName>Route 21</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) Roland</TID>
+		<LName>Route 21</LName>
+	</row>
+	<row>
+		<TID>Swimmer (M) Jerome</TID>
+		<LName>Route 21</LName>
+	</row>
+	<row>
+		<TID>Tamer Cole</TID>
+		<LName>Viridian City Gym</LName>
+	</row>
+	<row>
+		<TID>Black Belt Kiyo</TID>
+		<LName>Viridian City Gym</LName>
+	</row>
+	<row>
+		<TID>Cool Trainer Samuel</TID>
+		<LName>Viridian City Gym</LName>
+	</row>
+	<row>
+		<TID>Cool Trainer Yuji</TID>
+		<LName>Viridian City Gym</LName>
+	</row>
+	<row>
+		<TID>Black Belt Atsushi</TID>
+		<LName>Viridian City Gym</LName>
+	</row>
+	<row>
+		<TID>Tamer Jason</TID>
+		<LName>Viridian City Gym</LName>
+	</row>
+	<row>
+		<TID>Cool Trainer Warren</TID>
+		<LName>Viridian City Gym</LName>
+	</row>
+	<row>
+		<TID>Black Belt Takashi</TID>
+		<LName>Viridian City Gym</LName>
+	</row>
+	<row>
+		<TID>Leader Giovanni</TID>
+		<LName>Viridian City Gym</LName>
+	</row>
+	<row>
+		<TID>Rival_5</TID>
+		<LName>Route 22</LName>
+	</row>
+	<row>
+		<TID>Cool Trainer Naomi</TID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<TID>Cool Trainer Rolando</TID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<TID>Black Belt Daisuke</TID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<TID>Juggler Nelson</TID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<TID>Tamer Vincent</TID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<TID>Juggler Gregory</TID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<TID>Cool Trainer George</TID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<TID>Pokemanic Dawson</TID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<TID>Cool Trainer Alexa</TID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<TID>Cool Trainer Colby</TID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<TID>Cool Trainer Caroline</TID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<TID>Cool Couple Ray &amp; Tyra</TID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<TID>Elite Four Lorelei</TID>
+		<LName>Elite Four</LName>
+	</row>
+	<row>
+		<TID>Elite Four Bruno</TID>
+		<LName>Elite Four</LName>
+	</row>
+	<row>
+		<TID>Elite Four Agatha</TID>
+		<LName>Elite Four</LName>
+	</row>
+	<row>
+		<TID>Elite Four Lance</TID>
+		<LName>Elite Four</LName>
+	</row>
+	<row>
+		<TID>Champion Rival</TID>
+		<LName>Elite Four</LName>
+	</row>
+</data-set>

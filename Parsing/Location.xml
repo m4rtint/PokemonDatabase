@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<LName>Pallet Town</LName>
+		<Description>A fairly new and quiet town. It's a small and pretty place.</Description>
+	</row>
+	<row>
+		<LName>Viridian City</LName>
+		<Description>A beautiful city that is enveloped in green year-round.</Description>
+	</row>
+	<row>
+		<LName>Pewter City</LName>
+		<Description>A quiet city nestled between rugged mountains and rocks.</Description>
+	</row>
+	<row>
+		<LName>Cerulean City</LName>
+		<Description>A beautiful city with flowing water and blooming flowers.</Description>
+	</row>
+	<row>
+		<LName>Vermilion City</LName>
+		<Description>A southern city that is bathed in orange by the setting sun.</Description>
+	</row>
+	<row>
+		<LName>Lavender Town</LName>
+		<Description>A small town covered in a beautiful hue of purple.</Description>
+	</row>
+	<row>
+		<LName>Celadon City</LName>
+		<Description>A rich, rainbow colored city where people and Pokémon gather.</Description>
+	</row>
+	<row>
+		<LName>Fuchsia City</LName>
+		<Description>A historic village that has become new.</Description>
+	</row>
+	<row>
+		<LName>Saffron City</LName>
+		<Description>The biggest city in Kanto, shining with a golden light.</Description>
+	</row>
+	<row>
+		<LName>Cinnabar Island</LName>
+		<Description>A town used to be here until it was swept away by an eruption.</Description>
+	</row>
+	<row>
+		<LName>Cerulean Cave</LName>
+		<Description>A mysterious cave that is filled with terribly tough Pokémon. It is so dangerous, the Pokémon League is in charge of it</Description>
+	</row>
+	<row>
+		<LName>Diglett's Cave</LName>
+		<Description>A seemingly plain tunnel that was dug by wild Diglett. It is famous for connecting Routes 2 and 11</Description>
+	</row>
+	<row>
+		<LName>Fighting Dojo</LName>
+		<Description>Former Pokemon Gym located in Saffron City</Description>
+	</row>
+	<row>
+		<LName>Indigo Plateau</LName>
+		<Description>The fate of many Trainers aiming for the top rests here.</Description>
+	</row>
+	<row>
+		<LName>Mt. Moon</LName>
+		<Description>A mystical mountain that is known for its frequent meteor falls. The shards of stars that fall here are known as Moon Stones.</Description>
+	</row>
+	<row>
+		<LName>Pokemon Mansion</LName>
+		<Description>A decrepit, burned-down mansion on Cinnabar Island. It got its name because a famous Pokémon researcher lived there.</Description>
+	</row>
+	<row>
+		<LName>Pokemon Tower</LName>
+		<Description>A tower that houses the graves of countless Pokémon. Many people visit it daily to pay their respects to the fallen</Description>
+	</row>
+	<row>
+		<LName>Power Plant</LName>
+		<Description>A power plant that was abandoned years ago, though some of the machines still work. It is infested with electric Pokémon</Description>
+	</row>
+	<row>
+		<LName>Rock Tunnel</LName>
+		<Description>A naturally formed underground tunnel. Because it has not been developed, it is inky dark inside. A light is needed to get through.</Description>
+	</row>
+	<row>
+		<LName>Celadon Game Corner</LName>
+		<Description>A fun time Casino</Description>
+	</row>
+	<row>
+		<LName>Safari Zone</LName>
+		<Description>An amusement park outside Fuchsia City where many rare Pokémon can be observed in the wild. Catch them in a popular game!</Description>
+	</row>
+	<row>
+		<LName>Seafoam Islands</LName>
+		<Description>A pair of islands that is situated on Route 20. The two islands are shaped the same, as if they were twins.</Description>
+	</row>
+	<row>
+		<LName>Silph Co.</LName>
+		<Description>They are the manufacturers of many tools, including the Silph Scope—a device that allows the user to view spectral entities—as well as home appliances.</Description>
+	</row>
+	<row>
+		<LName>Victory Road</LName>
+		<Description>A tunnel situated on Route 23. It earned its name because it must be traveled by all Trainers aiming for the top.</Description>
+	</row>
+	<row>
+		<LName>Virdian Forest</LName>
+		<Description>A deep and sprawling forest that extends around Viridian City. A natural maze, many people become lost inside.</Description>
+	</row>
+	<row>
+		<LName>Route 1</LName>
+		<Description>A country road full of greenery and rough paths.</Description>
+	</row>
+	<row>
+		<LName>Route 2</LName>
+		<Description>A path that winds and bends from the forest's entrance.</Description>
+	</row>
+	<row>
+		<LName>Route 3</LName>
+		<Description>A road where many rocks have fallen from the sky to create craters.</Description>
+	</row>
+	<row>
+		<LName>Route 4</LName>
+		<Description>A one-way road down a hill that has a gentle slope and is fun to traverse.</Description>
+	</row>
+	<row>
+		<LName>Route 5</LName>
+		<Description>A road running north of Saffron City connecting to the Underground Path.</Description>
+	</row>
+	<row>
+		<LName>Route 6</LName>
+		<Description>A road running south of Saffron City connecting to the Underground Path.</Description>
+	</row>
+	<row>
+		<LName>Route 7</LName>
+		<Description>A short road that leads to the blocked-off Underground Path.</Description>
+	</row>
+	<row>
+		<LName>Route 8</LName>
+		<Description>Route 8 is a unique route traveling along east to west from Lavender Town to Saffron City.</Description>
+	</row>
+	<row>
+		<LName>Route 9</LName>
+		<Description>A road that forms a maze crossing a small, rocky mountain.</Description>
+	</row>
+	<row>
+		<LName>Route 10</LName>
+		<Description>A road that passes along the canal and comes out at the Power Plant.</Description>
+	</row>
+	<row>
+		<LName>Route 11</LName>
+		<Description>A grassy path with a gentle, refreshing breeze.</Description>
+	</row>
+	<row>
+		<LName>Route 12</LName>
+		<Description>A bridge known for its fishing. It's also called "Silence Bridge."</Description>
+	</row>
+	<row>
+		<LName>Route 13</LName>
+		<Description>A difficult, narrow path where many Trainers await you</Description>
+	</row>
+	<row>
+		<LName>Route 14</LName>
+		<Description>A pleasant coastal road where the breeze blows and waves roar.</Description>
+	</row>
+	<row>
+		<LName>Route 15</LName>
+		<Description>A path that cuts through the row of trees to come out on the coastline.</Description>
+	</row>
+	<row>
+		<LName>Route 16</LName>
+		<Description>The northern starting point of Cycling Road.</Description>
+	</row>
+	<row>
+		<LName>Route 17</LName>
+		<Description>An easy path of Cycling Road running above the sea.</Description>
+	</row>
+	<row>
+		<LName>Route 18</LName>
+		<Description>The southern ending point of Cycling Road.</Description>
+	</row>
+	<row>
+		<LName>Route 19</LName>
+		<Description>A coastal road littered with rocks due to Cinnabar Island's volcano eruption.</Description>
+	</row>
+	<row>
+		<LName>Route 20</LName>
+		<Description>A popular path with swimmers. The Seafoam Islands are also here.</Description>
+	</row>
+	<row>
+		<LName>Route 21</LName>
+		<Description>A coastal road where the only threat might be the volcano on the horizon.</Description>
+	</row>
+	<row>
+		<LName>Route 22</LName>
+		<Description>A path to Victory Road that eventually becomes impassable.</Description>
+	</row>
+	<row>
+		<LName>Route 23</LName>
+		<Description>A route in northwest Kanto, connecting Indigo Plateau to Victory Road and Route 22.</Description>
+	</row>
+	<row>
+		<LName>Route 24</LName>
+		<Description>A beautiful bridge that stretches across a river.</Description>
+	</row>
+	<row>
+		<LName>Route 25</LName>
+		<Description>A path that winds through the forest and comes out overlooking the sea.</Description>
+	</row>
+</data-set>

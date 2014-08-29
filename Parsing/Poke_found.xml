@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<row>
+		<PID>1</PID>
+		<LName>Professor Oak's Lab</LName>
+	</row>
+	<row>
+		<PID>2</PID>
+		<LName>Evolved from Bulbasaur</LName>
+	</row>
+	<row>
+		<PID>3</PID>
+		<LName>Evolve from Ivysaur</LName>
+	</row>
+	<row>
+		<PID>4</PID>
+		<LName>Professor Oak's Lab</LName>
+	</row>
+	<row>
+		<PID>5</PID>
+		<LName>Evolved from Charmander</LName>
+	</row>
+	<row>
+		<PID>6</PID>
+		<LName>Evolved from Charmeleon</LName>
+	</row>
+	<row>
+		<PID>7</PID>
+		<LName>Professor Oak's Lab</LName>
+	</row>
+	<row>
+		<PID>8</PID>
+		<LName>Evolved from Squirtle</LName>
+	</row>
+	<row>
+		<PID>9</PID>
+		<LName>Evolved from Wartortle</LName>
+	</row>
+	<row>
+		<PID>10</PID>
+		<LName>Viridian Forest, Route 2, Route 24 &amp; 25</LName>
+	</row>
+	<row>
+		<PID>11</PID>
+		<LName>Viridian Forest, Route 24 &amp; 25</LName>
+	</row>
+	<row>
+		<PID>12</PID>
+		<LName>Evolved from Metapod</LName>
+	</row>
+	<row>
+		<PID>13</PID>
+		<LName>Viridian Forest,Route 2, Route 24 &amp; 25</LName>
+	</row>
+	<row>
+		<PID>14</PID>
+		<LName>Viridian Forest, Route 24 &amp; 25</LName>
+	</row>
+	<row>
+		<PID>15</PID>
+		<LName>Evolved from Kakuna</LName>
+	</row>
+	<row>
+		<PID>16</PID>
+		<LName>Lots of places! About 14</LName>
+	</row>
+	<row>
+		<PID>17</PID>
+		<LName>Route 21, 14 &amp; 15</LName>
+	</row>
+	<row>
+		<PID>18</PID>
+		<LName>Evolved from Pidgeotto</LName>
+	</row>
+	<row>
+		<PID>19</PID>
+		<LName>Lots of places about 11</LName>
+	</row>
+	<row>
+		<PID>20</PID>
+		<LName>Route 16, 17, 18, and 21</LName>
+	</row>
+	<row>
+		<PID>21</PID>
+		<LName>Lots of places about 9</LName>
+	</row>
+	<row>
+		<PID>22</PID>
+		<LName>Route 17, 18, and 23</LName>
+	</row>
+	<row>
+		<PID>23</PID>
+		<LName>Lots of places about 5</LName>
+	</row>
+	<row>
+		<PID>24</PID>
+		<LName>Route 23 and Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>25</PID>
+		<LName>Viridian Forest and the Power Plant</LName>
+	</row>
+	<row>
+		<PID>26</PID>
+		<LName>Route 23, the Power Plant, and Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>27</PID>
+		<LName>Lots of places about 5</LName>
+	</row>
+	<row>
+		<PID>28</PID>
+		<LName>Route 23 and Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>29</PID>
+		<LName>Route 22 and Safari Zone</LName>
+	</row>
+	<row>
+		<PID>30</PID>
+		<LName>Safari Zone, Celedon City, and Route 11</LName>
+	</row>
+	<row>
+		<PID>31</PID>
+		<LName>Evolved from Nidorina</LName>
+	</row>
+	<row>
+		<PID>32</PID>
+		<LName>Route 22 and Safari Zone</LName>
+	</row>
+	<row>
+		<PID>33</PID>
+		<LName>Safari Zone and Celedon City</LName>
+	</row>
+	<row>
+		<PID>34</PID>
+		<LName>evolved from Nidorino</LName>
+	</row>
+	<row>
+		<PID>35</PID>
+		<LName>Mt. Moon, Celedon City, and Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>36</PID>
+		<LName>Evolved from Clefairy</LName>
+	</row>
+	<row>
+		<PID>37</PID>
+		<LName>Pokemon Mansion, Route 7 and 8</LName>
+	</row>
+	<row>
+		<PID>38</PID>
+		<LName>Evolved from Vulpix</LName>
+	</row>
+	<row>
+		<PID>39</PID>
+		<LName>Route 3</LName>
+	</row>
+	<row>
+		<PID>40</PID>
+		<LName>the Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>41</PID>
+		<LName>Mt. Moon, Rock Tunnel, Victory Road, and Seafoam Island</LName>
+	</row>
+	<row>
+		<PID>42</PID>
+		<LName>Route 23, Victory Road, and Seafoam Island</LName>
+	</row>
+	<row>
+		<PID>43</PID>
+		<LName>Lots of places about 9</LName>
+	</row>
+	<row>
+		<PID>44</PID>
+		<LName>Route 15, 14, 13, and 12</LName>
+	</row>
+	<row>
+		<PID>45</PID>
+		<LName>Evolved from Gloom</LName>
+	</row>
+	<row>
+		<PID>46</PID>
+		<LName>Mt. Moon and Safari Zone</LName>
+	</row>
+	<row>
+		<PID>47</PID>
+		<LName>Safari Zone and Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>48</PID>
+		<LName>Route 15, 14, 13, 12, and Safari Zone</LName>
+	</row>
+	<row>
+		<PID>49</PID>
+		<LName>Victory Road, Safari Zone, and Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>50</PID>
+		<LName>Diglett's Cave</LName>
+	</row>
+	<row>
+		<PID>51</PID>
+		<LName>Diglett's Cave</LName>
+	</row>
+	<row>
+		<PID>52</PID>
+		<LName>Route 8, 7, 6, and 5</LName>
+	</row>
+	<row>
+		<PID>53</PID>
+		<LName>Evolved from Meowth</LName>
+	</row>
+	<row>
+		<PID>54</PID>
+		<LName>Lots of places about 6</LName>
+	</row>
+	<row>
+		<PID>55</PID>
+		<LName>Seafoam Island</LName>
+	</row>
+	<row>
+		<PID>56</PID>
+		<LName>Route 8, 7, 6, and 5</LName>
+	</row>
+	<row>
+		<PID>57</PID>
+		<LName>Evolved from Mankey</LName>
+	</row>
+	<row>
+		<PID>58</PID>
+		<LName>Route 7, 8, and the Pokemon Mansion</LName>
+	</row>
+	<row>
+		<PID>59</PID>
+		<LName>Evolved from Growlithe</LName>
+	</row>
+	<row>
+		<PID>60</PID>
+		<LName>Fish for him</LName>
+	</row>
+	<row>
+		<PID>61</PID>
+		<LName>Fish for him</LName>
+	</row>
+	<row>
+		<PID>62</PID>
+		<LName>Evolved from Poliwhirl</LName>
+	</row>
+	<row>
+		<PID>63</PID>
+		<LName>Celedon Ex. corner, Route 24, and 25</LName>
+	</row>
+	<row>
+		<PID>64</PID>
+		<LName>The Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>65</PID>
+		<LName>Evolved from Kadabra</LName>
+	</row>
+	<row>
+		<PID>66</PID>
+		<LName>Victory Road and Rock Tunnel</LName>
+	</row>
+	<row>
+		<PID>67</PID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<PID>68</PID>
+		<LName>Evolved from Machoke</LName>
+	</row>
+	<row>
+		<PID>69</PID>
+		<LName>Lots of places about 9</LName>
+	</row>
+	<row>
+		<PID>70</PID>
+		<LName>Route 12, 13, 14, and 15</LName>
+	</row>
+	<row>
+		<PID>71</PID>
+		<LName>Evolved from Weepinbell</LName>
+	</row>
+	<row>
+		<PID>72</PID>
+		<LName>fish for him</LName>
+	</row>
+	<row>
+		<PID>73</PID>
+		<LName>Evolved from Tentacool</LName>
+	</row>
+	<row>
+		<PID>74</PID>
+		<LName>Mt. Moon, Rock Tunnel, and Victory Road</LName>
+	</row>
+	<row>
+		<PID>75</PID>
+		<LName>Victory Road</LName>
+	</row>
+	<row>
+		<PID>76</PID>
+		<LName>Evolved from Graveler</LName>
+	</row>
+	<row>
+		<PID>77</PID>
+		<LName>Pokemon Mansion</LName>
+	</row>
+	<row>
+		<PID>78</PID>
+		<LName>Evolved from Ponyta</LName>
+	</row>
+	<row>
+		<PID>79</PID>
+		<LName>fish for him</LName>
+	</row>
+	<row>
+		<PID>80</PID>
+		<LName>fish for him</LName>
+	</row>
+	<row>
+		<PID>81</PID>
+		<LName>the Unknown Dungeon and the Power Plant</LName>
+	</row>
+	<row>
+		<PID>82</PID>
+		<LName>the Unknown Dungeon and the Power Plant</LName>
+	</row>
+	<row>
+		<PID>83</PID>
+		<LName>Vermilion City (trade Spearow)</LName>
+	</row>
+	<row>
+		<PID>84</PID>
+		<LName>Route 16, 17, 18, and Safari Zone</LName>
+	</row>
+	<row>
+		<PID>85</PID>
+		<LName>the Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>86</PID>
+		<LName>Seafoam Island</LName>
+	</row>
+	<row>
+		<PID>87</PID>
+		<LName>Seafoam Island</LName>
+	</row>
+	<row>
+		<PID>88</PID>
+		<LName>Pokemon Mansion</LName>
+	</row>
+	<row>
+		<PID>89</PID>
+		<LName>the Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>90</PID>
+		<LName>fish for him</LName>
+	</row>
+	<row>
+		<PID>91</PID>
+		<LName>Evolved from Shellder</LName>
+	</row>
+	<row>
+		<PID>92</PID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<PID>93</PID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<PID>94</PID>
+		<LName>Evolved from Haunter</LName>
+	</row>
+	<row>
+		<PID>95</PID>
+		<LName>Victory Road and Rock Tunnel</LName>
+	</row>
+	<row>
+		<PID>96</PID>
+		<LName>Route 11</LName>
+	</row>
+	<row>
+		<PID>97</PID>
+		<LName>the Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>98</PID>
+		<LName>fish for him</LName>
+	</row>
+	<row>
+		<PID>99</PID>
+		<LName>Route 23 (fish) Seafoam Island and the Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>100</PID>
+		<LName>Power Plant and Route 9</LName>
+	</row>
+	<row>
+		<PID>101</PID>
+		<LName>Unknown Dungeon, Power Plant, Cinibar Island, and</LName>
+	</row>
+	<row>
+		<PID>102</PID>
+		<LName>Safari Zone</LName>
+	</row>
+	<row>
+		<PID>103</PID>
+		<LName>Evolved from Exeggcute</LName>
+	</row>
+	<row>
+		<PID>104</PID>
+		<LName>Pokemon Tower</LName>
+	</row>
+	<row>
+		<PID>105</PID>
+		<LName>Victroy Road and Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>106</PID>
+		<LName>Saffron City (beat the fighting do-jo's)</LName>
+	</row>
+	<row>
+		<PID>107</PID>
+		<LName>Saffron City (beat the fighting do-jo's)</LName>
+	</row>
+	<row>
+		<PID>108</PID>
+		<LName>Route 18 (trade Slowbro in the building)</LName>
+	</row>
+	<row>
+		<PID>109</PID>
+		<LName>Pokemon Mansion</LName>
+	</row>
+	<row>
+		<PID>110</PID>
+		<LName>Pokemon Mansion</LName>
+	</row>
+	<row>
+		<PID>111</PID>
+		<LName>Safari Zone</LName>
+	</row>
+	<row>
+		<PID>112</PID>
+		<LName>Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>113</PID>
+		<LName>Safari Zone and Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>114</PID>
+		<LName>Route 21 and Cinnabar Island</LName>
+	</row>
+	<row>
+		<PID>115</PID>
+		<LName>Safari Zone</LName>
+	</row>
+	<row>
+		<PID>116</PID>
+		<LName>Fish for him</LName>
+	</row>
+	<row>
+		<PID>117</PID>
+		<LName>Fish for him</LName>
+	</row>
+	<row>
+		<PID>118</PID>
+		<LName>Fish for her</LName>
+	</row>
+	<row>
+		<PID>119</PID>
+		<LName>Fish for her</LName>
+	</row>
+	<row>
+		<PID>120</PID>
+		<LName>Fish for her/him</LName>
+	</row>
+	<row>
+		<PID>121</PID>
+		<LName>Evolved from Staryu</LName>
+	</row>
+	<row>
+		<PID>122</PID>
+		<LName>Viridian City on the right side where you use the CUT ability, trade Abra</LName>
+	</row>
+	<row>
+		<PID>123</PID>
+		<LName>Celedon ex. Corner (Red) and Safari Zone</LName>
+	</row>
+	<row>
+		<PID>124</PID>
+		<LName>Cerulean City (trade Poliwhirl)</LName>
+	</row>
+	<row>
+		<PID>125</PID>
+		<LName>Power Plant</LName>
+	</row>
+	<row>
+		<PID>126</PID>
+		<LName>Pokemon Mansion</LName>
+	</row>
+	<row>
+		<PID>127</PID>
+		<LName>Celedon ex. Corner (Blue) and Safari Zone</LName>
+	</row>
+	<row>
+		<PID>128</PID>
+		<LName>Safari Zone</LName>
+	</row>
+	<row>
+		<PID>129</PID>
+		<LName>Fish for him</LName>
+	</row>
+	<row>
+		<PID>130</PID>
+		<LName>Evolved from Magikarp</LName>
+	</row>
+	<row>
+		<PID>131</PID>
+		<LName>Silph Co. (floor 7)</LName>
+	</row>
+	<row>
+		<PID>132</PID>
+		<LName>Lots of places, about 5</LName>
+	</row>
+	<row>
+		<PID>133</PID>
+		<LName>Celedon City (go around back of Celedon Mansion)</LName>
+	</row>
+	<row>
+		<PID>134</PID>
+		<LName>Evolved from Eevee</LName>
+	</row>
+	<row>
+		<PID>135</PID>
+		<LName>Evolved from Eevee</LName>
+	</row>
+	<row>
+		<PID>136</PID>
+		<LName>Evolved from Eevee</LName>
+	</row>
+	<row>
+		<PID>137</PID>
+		<LName>Celedon ex. Corner</LName>
+	</row>
+	<row>
+		<PID>138</PID>
+		<LName>Take the Helix fossil to Cinnabar Island and go to the Pokemon Lab</LName>
+	</row>
+	<row>
+		<PID>139</PID>
+		<LName>Evolved from Omanyte</LName>
+	</row>
+	<row>
+		<PID>140</PID>
+		<LName>Take the Dome fossil to Cinnabar Island and go to the Pokemon Lab</LName>
+	</row>
+	<row>
+		<PID>141</PID>
+		<LName>Evolved from Kabuto</LName>
+	</row>
+	<row>
+		<PID>142</PID>
+		<LName>Take the Old Amber to Cinnabar Island and go to the Pokemon Lab</LName>
+	</row>
+	<row>
+		<PID>143</PID>
+		<LName>Route 12 and 16 (the sleeping Pokemon in the middle of the Routes)</LName>
+	</row>
+	<row>
+		<PID>144</PID>
+		<LName>Seafoam Island (one chance to get Pokemon)</LName>
+	</row>
+	<row>
+		<PID>145</PID>
+		<LName>Power Plant(one chance to get Pokemon)</LName>
+	</row>
+	<row>
+		<PID>146</PID>
+		<LName>Victory Road (one chance to get Pokemon)</LName>
+	</row>
+	<row>
+		<PID>147</PID>
+		<LName>Celedon ex. Corner and Safari Zone</LName>
+	</row>
+	<row>
+		<PID>148</PID>
+		<LName>Evolved from Dratini</LName>
+	</row>
+	<row>
+		<PID>149</PID>
+		<LName>Evolved from Dragonair</LName>
+	</row>
+	<row>
+		<PID>150</PID>
+		<LName>The Unknown Dungeon</LName>
+	</row>
+	<row>
+		<PID>151</PID>
+		<LName>Look in the Cheats section for Red/Blue.</LName>
+	</row>
+</data-set>
